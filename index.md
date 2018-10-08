@@ -1,5 +1,5 @@
 ---
 layout: home
-title: KylanRobinson.com
+title: Home
 ---
 Yay for markdown.
