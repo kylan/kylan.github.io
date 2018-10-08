@@ -1,6 +1,6 @@
 ---
 title: Hello World!
-layout: home
+layout: page
 ---
 
 Yay for markdown.
