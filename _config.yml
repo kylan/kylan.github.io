@@ -1,13 +1,3 @@
-<<<<<<< HEAD
 theme: minima
 title: KylanRobinson.com
 description: Personal site of Kylan Robinson
-=======
-title: KylanRobinson.com
-author: Kylan Robinson
-description: Personal site of Kylan Robinson
-twitter_username: kylan
-github_username: kylan
-show_excerpts: true
-theme: jekyll-theme-cayman
->>>>>>> 76fbf855e8980ed1d5cfe77dc6350fb963b557ad
