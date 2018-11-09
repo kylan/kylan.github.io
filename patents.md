@@ -1,3 +1,7 @@
+---
+layout: default
+title: Patents
+---
 # [US9773363B2 Transient asset management systems and methods](https://patentimages.storage.googleapis.com/70/11/e7/e51063faeec153/US9773363.pdf)
 
 ![](https://patentimages.storage.googleapis.com/e7/8d/a5/bd23158298c1a3/US09773363-20170926-D00000.png)
