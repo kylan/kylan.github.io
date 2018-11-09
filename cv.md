@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Curriculum Vitae
+title: 2 Curriculum Vitae
 ---
