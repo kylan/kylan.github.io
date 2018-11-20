@@ -1,5 +1,5 @@
 ---
 layout: home
-title: 1 Home
+title: Home
 ---
 Yay for markdown.

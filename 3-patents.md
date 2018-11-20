@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3 Patents
+title: Patents
 ---
 # [US9773363B2 Transient asset management systems and methods](https://patentimages.storage.googleapis.com/70/11/e7/e51063faeec153/US9773363.pdf)
 
