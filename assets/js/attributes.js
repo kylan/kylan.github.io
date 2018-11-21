@@ -29,5 +29,5 @@ function randomize(a,b) {
 }
 
 window.onload = function() {
-  document.getElementById('attributes').innerHTML = array.sort(randomize).join(". ");
+  document.getElementById('home-attributes').innerHTML = array.sort(randomize).join(". ");
 }
