@@ -8,3 +8,6 @@ social-network-links:
   twitter: kylan
   instagram: kylanrobinson
   linkedin: kylanrobinson
+sass:
+  sass_dir: assets/css
+  style: compressed
