@@ -8,5 +8,9 @@ social-network-links:
   twitter: kylan
   instagram: kylanrobinson
   linkedin: kylanrobinson
-#sass:
-#  style: compressed
+sass:
+  style: compressed
+header_pages:
+  - index.md
+  - 1-cv.md
+  - 2-patents.md
