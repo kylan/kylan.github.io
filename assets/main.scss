@@ -3,7 +3,10 @@
 
 @import "{{ site.theme }}";
 
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
+
 #home-attributes {
   text-align: justify;
-  color: red;
+  font-family: 'Alfa Slab One', cursive;
+  color: grey;
 }
