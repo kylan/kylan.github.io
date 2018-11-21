@@ -3,6 +3,8 @@ layout: home
 title: Home
 ---
 
-<div id="attributes"></div>
+<h2>
+  <div id="attributes" style="align:justify"></div>
+</h2>
 
-<script src="js/attributes.js"></script>
+<script src="assets/js/attributes.js"></script>
