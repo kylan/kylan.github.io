@@ -3,10 +3,11 @@
 
 @import "{{ site.theme }}";
 
-@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 
 #home-attributes {
   text-align: justify;
-  font-family: 'Alfa Slab One', cursive;
-  color: grey;
+  font-family: 'Oswald', sans-serif;
+  color: #00000025;
+  font-size: 1.7em;
 }
