@@ -1,15 +1,19 @@
-var array = [
+var attrs = [
   "American",
-	"Brother",
+  "Brother",
   "Camper",
   "Christian",
   "CISSP",
-	"Coach",
+  "Coach",
+  "Employee",
   "Engineer",
   "Father",
+  "Friend",
   "Foodie",
   "Husband",
   "Inventor",
+  "Leader",
+  "Manager",
   "Podcast producer",
   "Programmer",
   "Radio amateur",
@@ -17,9 +21,10 @@ var array = [
   "Runner",
   "Soccer player",
   "Son",
-	"Traveler",
-  "Trumpet player",
-	"Uncle",
+  "Supervisor",
+  "Traveler",
+  "Trumpeter",
+  "Uncle",
   "Washington State University alumnus",
   "WSU Cougar fan",
 ];
@@ -29,5 +34,6 @@ function randomize(a,b) {
 }
 
 window.onload = function() {
-  document.getElementById('home-attributes').innerHTML = array.sort(randomize).join(". ");
+  document.getElementById('home-attributes').innerHTML =
+    attrs.sort(randomize).slice(0,20).join(". ");
 }
