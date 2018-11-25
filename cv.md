@@ -20,4 +20,4 @@ title: Curriculum Vitae
 | Dates       | Degree                                    | Achievements                                                     |
 |-------------|-------------------------------------------|------------------------------------------------------------------|
 | 2007 - 2010 | Master of Science, Computer Engineering   | Thesis topic: Medium-grain reconfigurable hardware               |
-| 2003 - 2007 | Bachelor of Science, Computer Engineering | Distinguished Regents Scholar, Honors College Outstanding Senior |
+| 2003 - 2007 | Bachelor of Science, Computer Engineering | Distinguished Regents Scholar, Honors College Dean's Award |
