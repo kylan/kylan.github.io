@@ -21,3 +21,9 @@ title: Curriculum Vitae
 |-------------|-------------------------------------------|------------------------------------------------------------------|
 | 2007 - 2010 | Master of Science, Computer Engineering   | Thesis topic: Medium-grain reconfigurable hardware               |
 | 2003 - 2007 | Bachelor of Science, Computer Engineering | Distinguished Regents Scholar, Honors College Dean's Award |
+
+# Certifications
+
+* (ISC)2 Certified Information Systems Security Professional (CISSP)
+* ISO 9001:2017 Internal Auditor
+* Licensed amateur radio operator
