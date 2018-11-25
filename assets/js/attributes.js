@@ -25,7 +25,7 @@ var attrs = [
   "Traveler",
   "Trumpeter",
   "Uncle",
-  "Washington State University alumnus",
+  "Washington State University grad",
   "WSU Cougar fan",
 ];
 
@@ -35,5 +35,5 @@ function randomize(a,b) {
 
 window.onload = function() {
   document.getElementById('home-attributes').innerHTML =
-    attrs.sort(randomize).slice(0,20).join(". ");
+    attrs.sort(randomize).slice(0,20).join(". ") + ".";
 }
