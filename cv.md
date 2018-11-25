@@ -7,18 +7,17 @@ title: Curriculum Vitae
 
 ## Schweitzer Engineering Laboratories
 
-| Dates          | Title                       |
-|----------------|-----------------------------|
-| 2017 - Present | Senior Engineering Manager  |
-| 2014 - 2017    | Development Manager         |
-| 2008 - 2014    | Software Engineer           |
-| 2007 - 2008    | Software Engineering Intern |
+| Dates          | Title                       | Responsibilities                                                        |
+|----------------|-----------------------------|-------------------------------------------------------------------------|
+| 2017 - Present | Senior Engineering Manager  | Owner of LAN and Security product lines and firmware/software processes |
+| 2014 - 2017    | Development Manager         | Led firmware development of LAN/Security products                       |
+| 2008 - 2014    | Software Engineer           | Wrote C/C++, Python, and SQL for Security products                      |
 
 # Education
 
 ## Washington State University
 
-| Dates      | Degree                                    |
-|------------|-------------------------------------------|
-|2007 - 2010 | Master of Science, Computer Engineering   |
-|2003 - 2007 | Bachelor of Science, Computer Engineering |
+| Dates       | Degree                                    | Achievements                                                     |
+|-------------|-------------------------------------------|------------------------------------------------------------------|
+| 2007 - 2010 | Master of Science, Computer Engineering   | Thesis topic: Medium-grain reconfigurable hardware               |
+| 2003 - 2007 | Bachelor of Science, Computer Engineering | Distinguished Regents Scholar, Honors College Outstanding Senior |
