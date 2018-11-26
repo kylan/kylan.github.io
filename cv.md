@@ -17,13 +17,13 @@ title: Curriculum Vitae
 
 ## Washington State University
 
-| Dates       | Degree                                    | Achievements                                                     |
-|-------------|-------------------------------------------|------------------------------------------------------------------|
-| 2007 - 2010 | Master of Science, Computer Engineering   | Thesis topic: Medium-grain reconfigurable hardware               |
-| 2003 - 2007 | Bachelor of Science, Computer Engineering | Distinguished Regents Scholar, Honors College Dean's Award |
+| Dates       | Degree                                    | Achievements                                                                                                                                                                                                          |
+|-------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2007 - 2010 | Master of Science, Computer Engineering   | Thesis: [An IDE for Medium-Grain Reconfigurable Hardware](assets/pdf/thesis.pdf)                                                                                                                                      |
+| 2003 - 2007 | Bachelor of Science, Computer Engineering | [Distinguished Regents Scholar](https://news.wsu.edu/2002/10/24/wsu-announces-regents-scholars-for-2003/), [Honors College Dean's Award](https://news.wsu.edu/2007/05/08/wsu-honors-college-awards-faculty-students/) |
 
 # Certifications
 
-* (ISC)2 Certified Information Systems Security Professional (CISSP)
-* ISO 9001:2017 Internal Auditor
-* Licensed amateur radio operator
+* [(ISC)<sup>2</sup> Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
+* [ISO 9001:2017 Internal Auditor](https://www.kelmacinternational.com/product-category/iso-9001-training/)
+* [Licensed amateur radio operator](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service)
