@@ -15,3 +15,5 @@ header_pages:
   - cv.md
   - patents.md
   - books.md
+plugins:
+  - jemoji
