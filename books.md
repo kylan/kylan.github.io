@@ -5,17 +5,23 @@ title: Reading List
 
 # 2018
 
+## Grit :star: :star: :star: :star:
+
+Angela Duckworth
+
+<a href="https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/ref=as_li_ss_il?_encoding=UTF8&qid=1544302115&sr=8-2&linkCode=li2&tag=kylanrobinson-20&linkId=7688ba5cfb20dcc50f54339182811b84&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1501111116&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=1501111116" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## The Innovator's Dilemma :star: :star: :star:
 
  Clayton M. Christensen
 
 <a href="https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780/ref=as_li_ss_il?_encoding=UTF8&qid=1544301740&sr=8-1&linkCode=li2&tag=kylanrobinson-20&linkId=328c6446a11e1a10d45f932131cb1341&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1633691780&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=1633691780" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-## Grit :star: :star: :star: :star:
+## Agile Retrospectives :star: :star: :star:
 
-Angela Duckworth
+Esther Derby and Diana Larsen
 
-<a href="https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/ref=as_li_ss_il?_encoding=UTF8&qid=1544302115&sr=8-2&linkCode=li2&tag=kylanrobinson-20&linkId=7688ba5cfb20dcc50f54339182811b84&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1501111116&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=1501111116" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649/ref=as_li_ss_il?s=books&ie=UTF8&qid=1544398251&sr=1-3&keywords=agile+retrospectives&linkCode=li2&tag=kylanrobinson-20&linkId=50449feb8696951e946548f51383bfa7&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0977616649&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=0977616649" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## The Wright Brothers :star: :star: :star: :star:
 
