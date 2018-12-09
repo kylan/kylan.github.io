@@ -17,6 +17,12 @@ Angela Duckworth
 
 <a href="https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/ref=as_li_ss_il?_encoding=UTF8&qid=1544302115&sr=8-2&linkCode=li2&tag=kylanrobinson-20&linkId=7688ba5cfb20dcc50f54339182811b84&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1501111116&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=1501111116" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+## The Wright Brothers :star: :star: :star: :star:
+
+David McCullough
+
+<a href="https://www.amazon.com/Wright-Brothers-David-McCullough/dp/1476728755/ref=as_li_ss_il?_encoding=UTF8&qid=1544317339&sr=1-1&linkCode=li2&tag=kylanrobinson-20&linkId=b7bbefaa96838fc1946db4202334116b&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1476728755&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=1476728755" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## The Checklist Manifesto :star: :star: :star: :star:
 
 Atul Gawande
