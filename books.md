@@ -31,9 +31,9 @@ Charles G. Koch
 
 ## Blue Ocean Strategy :star: :star:
 
-<a href="https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491/ref=as_li_ss_il?ie=UTF8&qid=1544316552&sr=8-3&keywords=blue+ocean+strategy+book&linkCode=li2&tag=kylanrobinson-20&linkId=433f8d71fe8b3c7267e416f0a1f84d8b&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1625274491&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=1625274491" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
 W. Chan Kim,  Renee Mauborgne
+
+<a href="https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491/ref=as_li_ss_il?ie=UTF8&qid=1544316552&sr=8-3&keywords=blue+ocean+strategy+book&linkCode=li2&tag=kylanrobinson-20&linkId=433f8d71fe8b3c7267e416f0a1f84d8b&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1625274491&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=1625274491" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## Measure What Matters :star: :star: :star: :star: :star:
 
