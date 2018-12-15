@@ -4,10 +4,12 @@ title: Learning with Lainey - Season 1
 ---
 
 This summer my daughter and our family started a podcast! It's called Learning
-with Lainey, and Season 1 dedicated each episode to a different animal. It was
-so much fun!
+with Lainey, and the first season dedicated each episode to a different animal.
+Everyone played a part, and it was so much fun!
 
 [Episode 0 - Introduction](/assets/audio/S1E0-Introduction.m4a)
+
+<audio ref='Episode 0 - Introduction' src="https://raw.githubusercontent.com/kylan.github.io/master/assets/audio/S1E0-Introduction.m4a" autoPlay loop></audio>
 
 [Episode 1 - Cows](/assets/audio/S1E1-Cows.m4a)
 
