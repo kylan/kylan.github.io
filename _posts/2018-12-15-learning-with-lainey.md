@@ -13,7 +13,7 @@ Everyone played a part, and it was so much fun!
 
 [Episode 1 - Cows](/assets/audio/S1E1-Cows.m4a)
 
-<audio ref='Episode 1 - Cows' src="https://raw.githubusercontent.com/kylan/kylan.github.io/master/assets/audio/S1E1-Cows.m4a"></audio>
+<audio controls="controls" ref='Episode 1 - Cows' src="https://raw.githubusercontent.com/kylan/kylan.github.io/master/assets/audio/S1E1-Cows.m4a"></audio>
 
 [Episode 2 - Cheetahs](/assets/audio/S1E2-Cheetahs.m4a)
 
