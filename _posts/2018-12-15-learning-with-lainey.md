@@ -29,7 +29,7 @@ Everyone played a part, and it was so much fun!
 
 [Episode 5 - Bears](/assets/audio/S1E5-Bears.m4a)
 
-<audio ref='Episode 5 - Bears' src="https://raw.githubusercontent.com/kylan/kylan.github.io/master/assets/audio/S1E5-Bears.m4a" autoPlay loop></audio>
+<audio ref='Episode 5 - Bears' src="https://raw.githubusercontent.com/kylan/kylan.github.io/master/assets/audio/S1E5-Bears.m4a"></audio>
 
 [Episode 6 - Cougars](/assets/audio/S1E6-Cougars.m4a)
 
