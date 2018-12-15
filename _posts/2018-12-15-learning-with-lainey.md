@@ -9,7 +9,7 @@ Everyone played a part, and it was so much fun!
 
 [Episode 0 - Introduction](/assets/audio/S1E0-Introduction.m4a)
 
-<audio ref='Episode 0 - Introduction' src="https://raw.githubusercontent.com/kylan.github.io/master/assets/audio/S1E0-Introduction.m4a" autoPlay loop></audio>
+<audio ref='Episode 0 - Introduction' src="https://raw.githubusercontent.com/kylan/kylan.github.io/master/assets/audio/S1E0-Introduction.m4a" autoPlay loop></audio>
 
 [Episode 1 - Cows](/assets/audio/S1E1-Cows.m4a)
 
