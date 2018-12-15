@@ -10,7 +10,7 @@ title: Curriculum Vitae
 | Dates          | Title                       | Responsibilities                                                        |
 |----------------|-----------------------------|-------------------------------------------------------------------------|
 | 2017 - Present | Senior Engineering Manager  | Owner of LAN and Security product lines and firmware/software processes |
-| 2014 - 2017    | Development Manager         | Led firmware development of LAN/Security products                       |
+| 2014 - 2017    | Development Manager         | Led firmware development of LAN and Security products                   |
 | 2008 - 2014    | Software Engineer           | Wrote C/C++, Python, and SQL for Security products                      |
 
 # Education
