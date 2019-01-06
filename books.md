@@ -3,6 +3,14 @@ layout: default
 title: Reading List
 ---
 
+# 2019
+
+## The Supreme Commander: The War Years of Dwight D. Eisenhower :star: :star:
+
+Stephen E. Ambrose
+
+<a href="https://www.amazon.com/Supreme-Commander-Years-Dwight-Eisenhower/dp/0307946622/ref=as_li_ss_il?_encoding=UTF8&qid=1546736101&sr=8-2&linkCode=li2&tag=kylanrobinson-20&linkId=2aca03e46f1abca34e26b174cb81bccf&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0307946622&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=0307946622" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 # 2018
 
 ## Endurance :star: :star: :star:
