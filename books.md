@@ -5,7 +5,7 @@ title: Reading List
 
 # 2019
 
-## The Supreme Commander: The War Years of Dwight D. Eisenhower :star: :star:
+## The Supreme Commander :star: :star:
 
 Stephen E. Ambrose
 
