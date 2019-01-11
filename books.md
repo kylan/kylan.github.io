@@ -5,6 +5,12 @@ title: Reading List
 
 # 2019
 
+## The Monuments Men :star: :star: :star:
+
+Robert M. Edsel
+
+<a href="https://www.amazon.com/Monuments-Men-Thieves-Greatest-Treasure/dp/0316240052/ref=as_li_ss_il?_encoding=UTF8&qid=1547186713&sr=8-1&linkCode=li2&tag=kylanrobinson-20&linkId=103154f215ce233b1a87d941a98f63d5&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0316240052&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=0316240052" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## The Supreme Commander :star: :star:
 
 Stephen E. Ambrose
