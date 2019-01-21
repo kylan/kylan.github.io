@@ -5,6 +5,18 @@ title: Reading List
 
 # 2019
 
+## Preaching
+
+Timothy Keller
+
+<a href="https://www.amazon.com/Preaching-Communicating-Faith-Age-Skepticism/dp/0143108719/ref=as_li_ss_il?_encoding=UTF8&qid=1548041278&sr=1-1&linkCode=li2&tag=kylanrobinson-20&linkId=58425bca93659979cccb571cf3c1c0c8&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0143108719&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=0143108719" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## The Six Sigma Way :star:
+
+Peter S. Pande, Robert P. Neuman, Roland Cavanagh
+
+<a href="https://www.amazon.com/Six-Sigma-Way-Maximize-Improvement/dp/0071497323/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=kylanrobinson-20&linkId=0352586a1ed574b2a7fcb2bc0a985ab9&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0071497323&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=0071497323" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## The Monuments Men :star: :star: :star:
 
 Robert M. Edsel
