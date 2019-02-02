@@ -5,6 +5,12 @@ title: Reading List
 
 # 2019
 
+## Wild :star: :star: :star:
+
+Cheryl Strayed
+
+<a href="https://www.amazon.com/Cheryl-Strayed-Found-Pacific-Paperback/dp/B01FOD6NVM/ref=as_li_ss_il?s=books&ie=UTF8&qid=1549142641&sr=1-2&keywords=wild+strayed+cheryl&linkCode=li2&tag=kylanrobinson-20&linkId=3482b384ce35eb737c8666e91f291372&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01FOD6NVM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=B01FOD6NVM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## Preaching :star: :star: :star: :star:
 
 Timothy Keller
