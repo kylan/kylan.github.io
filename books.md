@@ -5,6 +5,18 @@ title: Reading List
 
 # 2019
 
+## A Mind at Play :star: :star: :star:
+
+Rob Goodman and Jimmy Soni
+
+<a href="https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/B073KVK1K6/ref=as_li_ss_il?keywords=claude+shannon&qid=1549597210&sr=8-1&linkCode=li2&tag=kylanrobinson-20&linkId=58d5aa8397b9b8d2315157f68f0cd5b3&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073KVK1K6&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=B073KVK1K6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## Steal Away Home :star: :star: :star:
+
+Matt Carter and Aaron Ivey
+
+<a href="https://www.amazon.com/Steal-Away-Home-Spurgeon-Unlikely/dp/1433690659/ref=as_li_ss_il?keywords=steal+away+home&qid=1549597298&s=Books&sr=1-1-catcorr&linkCode=li2&tag=kylanrobinson-20&linkId=5e0c5c56983b13e17455a1993d0e50af&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1433690659&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=1433690659" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## Wild :star: :star: :star:
 
 Cheryl Strayed
