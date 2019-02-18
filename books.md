@@ -5,6 +5,12 @@ title: Reading List
 
 # 2019
 
+## Guns, Germs, and Steel
+
+Jared Diamond
+
+<a href="https://www.amazon.com/Jared-Diamond-Germs-Steel-%E3%80%902018%E3%80%91/dp/B07HKBRXFV/ref=as_li_ss_il?ie=UTF8&qid=1550448136&sr=8-16&keywords=guns+germs+and+steel&linkCode=li2&tag=kylanrobinson-20&linkId=80a05518a415b83ea25146deb7a3b972&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HKBRXFV&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=B07HKBRXFV" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## Unbroken :star: :star: :star: :star:
 
 Laura Hillenbrand
