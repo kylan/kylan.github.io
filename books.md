@@ -5,7 +5,7 @@ title: Reading List
 
 # 2019
 
-## Guns, Germs, and Steel
+## Guns, Germs, and Steel :star: :star:
 
 Jared Diamond
 
