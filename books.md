@@ -7,7 +7,7 @@ title: Reading List
 
 ## A Beautiful Mind :star: :star: :star:
 
-Sylvia Nasara
+Sylvia Nasar
 
 <a href="https://www.amazon.com/Beautiful-Mind-Sylvia-Nasar/dp/1451628420/ref=as_li_ss_il?_encoding=UTF8&qid=1551566408&sr=8-3&linkCode=li2&tag=kylanrobinson-20&linkId=37d3409d4e5b99baadf0935abceaef84&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1451628420&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=1451628420" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
