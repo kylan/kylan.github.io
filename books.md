@@ -5,6 +5,12 @@ title: Reading List
 
 # 2019
 
+## Leonardo da Vinci :star: :star: :star:
+
+Walter Isaacson
+
+<a href="https://www.amazon.com/Leonardo-da-Vinci/dp/B071S8BNDP/ref=as_li_ss_il?_encoding=UTF8&qid=1552863419&sr=8-1&linkCode=li2&tag=kylanrobinson-20&linkId=d6d6781213859120019e799b6c1bca26&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071S8BNDP&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=B071S8BNDP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## A Beautiful Mind :star: :star: :star:
 
 Sylvia Nasar
