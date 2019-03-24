@@ -5,6 +5,18 @@ title: Reading List
 
 # 2019
 
+## First Man :star: :star: :star:
+
+James R. Hansen
+
+<a href="https://www.amazon.com/First-Man-Life-Neil-Armstrong/dp/1501153064/ref=as_li_ss_il?keywords=first+man&qid=1553435982&s=gateway&sr=8-2&linkCode=li2&tag=kylanrobinson-20&linkId=e5f0d54219e550b7efe6b510fe712870&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1501153064&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=1501153064" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## Steve Jobs :star: :star: :star: :star:
+
+Walter Isaacson
+
+<a href="https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/ref=as_li_ss_il?keywords=steve+jobs&qid=1553435835&s=gateway&sr=8-3&linkCode=li2&tag=kylanrobinson-20&linkId=a5ea5298cfc7ae332fe3ccf76d11c074&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1451648537&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=1451648537" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## Leonardo da Vinci :star: :star: :star:
 
 Walter Isaacson
