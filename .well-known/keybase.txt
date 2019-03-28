@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kylanrobinson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kylanrobinson.com
+  * I am kylanrobinson (https://keybase.io/kylanrobinson) on keybase.
+  * I have a public key ASDsm_YEyr5e9aw3qbpvtclfd-q-F7DPrj0knr3Zr5Gmbwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ec9bf604cabe5ef5ac37a9ba6fb5c95f77eabe17b0cfae3d249ebdd9af91a66f0a",
+      "host": "keybase.io",
+      "kid": "0120ec9bf604cabe5ef5ac37a9ba6fb5c95f77eabe17b0cfae3d249ebdd9af91a66f0a",
+      "uid": "393e296262d28754cc134c6bca27f419",
+      "username": "kylanrobinson"
+    },
+    "merkle_root": {
+      "ctime": 1553778948,
+      "hash": "5a9187bdeb75f77b2a3a1545e603429fca9f74cb4b80dfcb4ca76a1a52e480cf3bf035be1a0d437272b493cd75750192a19d00033b600d775c7ad75cd5a1f08a",
+      "hash_meta": "e694c49622db9463c2674f932f92124075a5292ebe5459a00060676117743ee1",
+      "seqno": 5046129
+    },
+    "service": {
+      "entropy": "gP26fOlcdZ5zzHzk4uYbSWCr",
+      "hostname": "kylanrobinson.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1553778967,
+  "expire_in": 504576000,
+  "prev": "a8f9a47b4ad4eff876b539f794ea3108f3cf96c6bede47f8dc392d4afe80d64c",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7Jv2BMq+XvWsN6m6b7XJX3fqvhewz649JJ692a+Rpm8Kp3BheWxvYWTESpcCE8QgqPmke0rU7/h2tTn3lOoxCPPPlsa+3kf43DktSv6A1kzEII0X33JlsMARsqGaNsyd7CEKtLmwVsVmZRN9orPeHw+0AgHCo3NpZ8RA1rVIlSpWSgv2orRJJJRLthovlYJNMWEVFyZDMuvM1QiYmibpALr25dUb6SnVV8orbrU0GqaDIpJH7UriLeMCCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHcxyTBAt8RJr7wPI4QIj9FBFiM1Sb++h+R4o1/PQ6Kro3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kylanrobinson
+
+==================================================================
