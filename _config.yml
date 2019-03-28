@@ -17,3 +17,4 @@ header_pages:
   - books.md
 plugins:
   - jemoji
+include: [".well-known"]
