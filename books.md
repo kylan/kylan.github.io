@@ -5,6 +5,30 @@ title: Reading List
 
 # 2019
 
+## American Sniper :star: :star: :star:
+
+Chris Kyle
+
+<a href="https://www.amazon.com/American-Sniper-Autobiography-Military-History/dp/B006ST49K4/ref=as_li_ss_il?keywords=american+sniper&qid=1554012900&s=books&sr=1-1&linkCode=li2&tag=kylanrobinson-20&linkId=99cb09523d1849248df0998b16398015&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006ST49K4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=B006ST49K4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## Braving the Wilderness :star: :star:
+
+Brené Brown
+
+<a href="https://www.amazon.com/Braving-Wilderness-quest-belonging-courage/dp/1785041754/ref=as_li_ss_il?_encoding=UTF8&qid=1554012935&sr=1-1&linkCode=li2&tag=kylanrobinson-20&linkId=23d0d008493ec5c6990a0d77e18d1692&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1785041754&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=1785041754" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## Argo :star: :star: :star:
+
+Antonio J. Mendez and Matt Baglio
+
+<a href="https://www.amazon.com/Argo-Hollywood-Pulled-Audacious-History/dp/0147509734/ref=as_li_ss_il?_encoding=UTF8&qid=1554013003&sr=1-1&linkCode=li2&tag=kylanrobinson-20&linkId=554e834bbe7d3ebe7808fa5222363723&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0147509734&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=0147509734" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## Option B :star: :star:
+
+Sheryl Sandberg and Adam Grant
+
+<a href="https://www.amazon.com/Option-Adversity-Building-Resilience-Finding/dp/0753548283/ref=as_li_ss_il?_encoding=UTF8&qid=1554013047&sr=1-1&linkCode=li2&tag=kylanrobinson-20&linkId=05ea90f3f0fc288338ce914371c7bd93&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0753548283&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=0753548283" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## First Man :star: :star: :star:
 
 James R. Hansen
