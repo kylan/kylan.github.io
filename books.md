@@ -5,7 +5,31 @@ title: Reading List
 
 # 2019
 
-## The Phoenix Project :star: :star: :star: :star:
+## David and Goliath :star: :star:
+
+Malcolm Gladwell
+
+<a href="https://www.amazon.com/David-Goliath-Underdogs-Misfits-Battling-ebook/dp/B00BAXFAOW/ref=as_li_ss_il?_encoding=UTF8&qid=1556406085&sr=8-2&linkCode=li2&tag=kylanrobinson-20&linkId=3fefdf9dee932bb283fac27d223cf020&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BAXFAOW&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=B00BAXFAOW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## I'll Be Gone in the Dark :star: :star: :star:
+
+Michelle McNamara
+
+<a href="https://www.amazon.com/Ill-Be-Gone-Dark-Obsessive-ebook/dp/B07HF88TL7/ref=as_li_ss_il?_encoding=UTF8&qid=1556406185&sr=1-1&linkCode=li2&tag=kylanrobinson-20&linkId=50ce0c1e0ffae6da4645e6a1d27a8bf3&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HF88TL7&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=B07HF88TL7" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## Indianapolis :star: :star: :star:
+
+Lynn Vincent and Sara Vladic
+
+<a href="https://www.amazon.com/Indianapolis-Disaster-Fifty-Year-Exonerate-Innocent-ebook/dp/B078MFB5BH/ref=as_li_ss_il?keywords=indianapolis&qid=1556406261&s=digital-text&sr=1-1&linkCode=li2&tag=kylanrobinson-20&linkId=82740efca1448c35082bf9ae1aa85a7c&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B078MFB5BH&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=B078MFB5BH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## No Easy Day :star: :star: :star:
+
+Mark Owen
+
+<a href="https://www.amazon.com/No-Easy-Day-Firsthand-Account-ebook/dp/B008MG1E4A/ref=as_li_ss_il?keywords=no+easy+day&qid=1556406446&s=digital-text&sr=1-1&linkCode=li2&tag=kylanrobinson-20&linkId=aca077e8b207a65dcb46111bf330d419&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008MG1E4A&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=B008MG1E4A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## The Phoenix Project :star: :star: :star: :star: :star:
 
 Gene Kim, Kevin Behr, and George Spafford
 
