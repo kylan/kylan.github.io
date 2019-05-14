@@ -5,6 +5,36 @@ title: Reading List
 
 # 2019
 
+## The Mark of the Christian :star: :star: :star:
+
+Francis A. Schaeffer
+
+<a href="https://www.amazon.com/Mark-Christian-IVP-Classics/dp/0830834079/ref=as_li_ss_il?_encoding=UTF8&qid=1557807961&sr=8-3&linkCode=li2&tag=kylanrobinson-20&linkId=2513a6d13546efad24d70443e0d01ea2&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0830834079&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=0830834079" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## Martin Luther :star: :star: :star: :star:
+
+Eric Metaxas
+
+<a href="https://www.amazon.com/Martin-Luther-Rediscovered-Changed-World/dp/110198001X/ref=as_li_ss_il?crid=3R7DBQFB2XRPS&keywords=martin+luther+eric+metaxes&qid=1557808046&s=gateway&sprefix=martin+luther,aps,343&sr=8-1&linkCode=li2&tag=kylanrobinson-20&linkId=9d394002beef01a42f716b777065efb3&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=110198001X&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=110198001X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## Blink :star: :star:
+
+Malcolm Gladwell
+
+<a href="https://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669/ref=as_li_ss_il?keywords=blink+gladwell&qid=1557808102&s=gateway&sr=8-3&linkCode=li2&tag=kylanrobinson-20&linkId=ad34a66fecaf3a93f231e514ed6e3df5&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0316010669&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=0316010669" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## Zero to One :star: :star: :star:
+
+Peter Thiel, Blake Masters
+
+<a href="https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ/ref=as_li_ss_il?crid=1TEX6I7H3PS0T&keywords=zero+to+one&qid=1557808156&s=books&sprefix=zero+to+one,aps,358&sr=1-2&linkCode=li2&tag=kylanrobinson-20&linkId=dbcb7a56f260da52e5a61d835ee3b5d2&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00J6YBOFQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=B00J6YBOFQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## Empires of Light :star: :star: :star: :star:
+
+Jill Jonnes
+
+<a href="https://www.amazon.com/Empires-Light-Edison-Westinghouse-Electrify/dp/0375758844/ref=as_li_ss_il?crid=34ZC028X56CB6&keywords=empires+of+light&qid=1557808440&s=gateway&sprefix=empires+of+,aps,570&sr=8-2&linkCode=li2&tag=kylanrobinson-20&linkId=80cdd7abcd9c78b88dbb5bac3dbe85be&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0375758844&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=0375758844" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## David and Goliath :star: :star:
 
 Malcolm Gladwell
