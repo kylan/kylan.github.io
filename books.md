@@ -75,7 +75,7 @@ Chris Kyle
 
 Brené Brown
 
-<a href="https://www.amazon.com/Braving-Wilderness-quest-belonging-courage/dp/1785041754/ref=as_li_ss_il?_encoding=UTF8&qid=1554012935&sr=1-1&linkCode=li2&tag=kylanrobinson-20&linkId=23d0d008493ec5c6990a0d77e18d1692&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1785041754&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=1785041754" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/Braving-Wilderness-Quest-Belonging-Courage-ebook/dp/B06XFLFSRY/ref=as_li_ss_il?crid=R7H31CM17L6H&keywords=braving+the+wilderness&qid=1557808840&s=books&sprefix=braving+the+wil,stripbooks,396&sr=1-1&linkCode=li2&tag=kylanrobinson-20&linkId=2b85d0cae4709a0d9ced86e289ed0a94&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XFLFSRY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=B06XFLFSRY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## Argo :star: :star: :star:
 
@@ -105,7 +105,7 @@ Walter Isaacson
 
 Walter Isaacson
 
-<a href="https://www.amazon.com/Leonardo-da-Vinci/dp/B071S8BNDP/ref=as_li_ss_il?_encoding=UTF8&qid=1552863419&sr=8-1&linkCode=li2&tag=kylanrobinson-20&linkId=d6d6781213859120019e799b6c1bca26&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071S8BNDP&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=B071S8BNDP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150/ref=as_li_ss_il?crid=3IR9ARO4W38BA&keywords=leonardo+da+vinci+walter+isaacson&qid=1557808765&s=books&sprefix=leornardo+,aps,300&sr=1-1&linkCode=li2&tag=kylanrobinson-20&linkId=e3fc1758206dd5ed865ae6bec84e463b&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1501139150&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=1501139150" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## A Beautiful Mind :star: :star: :star:
 
