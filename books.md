@@ -5,6 +5,24 @@ title: Reading List
 
 # 2019
 
+## Loonshots :star: :star: :star:
+
+Sofi Bahcall
+
+<a href="https://www.amazon.com/Loonshots-Nurture-Diseases-Transform-Industries-ebook/dp/B07D2BKVQR/ref=as_li_ss_il?keywords=loonshots&qid=1559003957&s=books&sr=1-2-catcorr&linkCode=li2&tag=kylanrobinson-20&linkId=cd28b389527f5266661e896da3d87be8&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07D2BKVQR&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=B07D2BKVQR" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## The Tipping Point :star: :star: :star:
+
+Malcolm Gladwell
+
+<a href="https://www.amazon.com/Tipping-Point-Little-Things-Difference/dp/0316346624/ref=as_li_ss_il?crid=1J9X2E2SJHRJN&keywords=the+tipping+point&qid=1559003896&s=books&sprefix=the+tipping+point,stripbooks,601&sr=1-1&linkCode=li2&tag=kylanrobinson-20&linkId=9c7992f09d559c55e4845fd2522a43f6&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0316346624&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=0316346624" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## Thank You for Being Late :star:
+
+Thomas L. Friedman
+
+<a href="https://www.amazon.com/Thank-You-Being-Late-Accelerations/dp/1250141222/ref=as_li_ss_il?crid=1YI9DFYQGY72S&keywords=thank+you+for+being+late+thomas+friedman&qid=1559003819&s=books&sprefix=thank+you+for+being+late,aps,430&sr=1-1&linkCode=li2&tag=kylanrobinson-20&linkId=8dd2f0d311304a9de7ba0938f55fcb09&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1250141222&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kylanrobinson-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kylanrobinson-20&language=en_US&l=li2&o=1&a=1250141222" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## The Mark of the Christian :star: :star: :star:
 
 Francis A. Schaeffer
