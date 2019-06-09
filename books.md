@@ -5,6 +5,9 @@ title: Reading List
 
 # 2019
 
+## Outliers :star: :star: :star: :star:
+Malcolm Gladwell
+
 ## Team of Rivals :star: :star: :star: :star:
 Doris Kearns Goodwin
 
