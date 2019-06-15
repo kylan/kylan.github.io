@@ -5,6 +5,9 @@ title: Reading List
 
 # 2019
 
+## The Good Neighbor :star: :star: :star:
+Maxwell King
+
 ## Outliers :star: :star: :star: :star:
 Malcolm Gladwell
 
