@@ -5,6 +5,18 @@ title: Reading List
 
 # 2019
 
+## Radical Candor :star: :star: :star: :star:
+Kim Scott
+
+## Hidden Figures :star: :star: :star:
+Margot Lee Shetterly
+
+## The Lean Startup :star: :star: :star:
+Eric Ries
+
+## Good to Great :star: :star: :star: :star:
+Jim Collins
+
 ## The Good Neighbor :star: :star: :star:
 Maxwell King
 
