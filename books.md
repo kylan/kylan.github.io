@@ -5,6 +5,15 @@ title: Reading List
 
 # 2019
 
+## The Startup Way :star: :star: :star:
+Eric Ries
+
+## Psalms 1-72 :star: :star:
+Derek Kidner
+
+## Alexander Hamilton :star: :star: :star:
+Ron Chernow
+
 ## Radical Candor :star: :star: :star: :star:
 Kim Scott
 

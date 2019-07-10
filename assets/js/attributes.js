@@ -7,6 +7,7 @@ var attrs = [
   "Coach",
   "Employee",
   "Engineer",
+  "Entrepreneur",
   "Father",
   "Friend",
   "Foodie",
