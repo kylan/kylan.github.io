@@ -5,6 +5,36 @@ title: Reading List
 
 # 2019
 
+## The Vagabonds :star: :star: :star:
+Jeff Guin
+
+## Astrophysics for Young People in a Hurry :star: :star:
+Neil DeGrasse Tyson
+
+## The First Conspiracy :star: :star:
+Brad Meltzer
+
+## The Power of Habit :star: :star: :star:
+Charles Duhigg
+
+## Smarter Faster Better :star: :star: :star:
+Charles Duhigg
+
+## The Price of Time :star: :star: :star:
+Tim Tigner
+
+## Classic Krakauer :star: :star:
+Jon Krakauer
+
+## Missoula :star: :star: :star:
+Jon Krakauer
+
+## Coach Wooden and Me :star: :star: :star:
+Kareem Abdul-Jabbar
+
+## Leadership in Turbulent Times :star: :star: :star:
+Doris Kearns Goodwin
+
 ## The Startup Way :star: :star: :star:
 Eric Ries
 
