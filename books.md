@@ -3,7 +3,84 @@ layout: default
 title: Reading List
 ---
 
+# 2020
+
+## Creativity, Inc.
+Ed Catmull
+
+## CATCH-22
+Joseph Heller
+
+## All the Light We Cannot See
+Anthony Doerr
+
+## A Game of Thrones
+George R. R. Martin
+
+## The Girl Who Lived Twice
+David Lagercrantz
+
+## Long Road to Mercy
+David Baldacci
+
+## Nine Perfect Strangers
+Liance Moriarty
+
+## The Girl Who Lived Twice
+David Lagercrantz
+
+## Lady in the Lake
+Laura Lippman
+
+## Redemption
+David Baldacci
+
+## The Fallen
+David Baldacci
+
+## Sharp Objects
+Gillian Flynn
+
+## The Last Mile
+David Baldacci
+
+## The Fix
+David Baldacci
+
+## Memory Man
+David Baldacci
+
+## Dark Places
+Gillian Flynn
+
 # 2019
+
+## As You Wish
+Cary Elwes, Joe Layden
+
+## Ready Player One
+Ernest Cline
+
+## Murder on the Orient Express
+Agatha Christie
+
+## Miracle Creek
+Angie Kim
+
+## Dark Sacred Night
+Michael Connelly
+
+## The President is Missing
+Bill Clinton, James Patterson
+
+## Hillbilly Elegy
+J. D. Vance
+
+## The Bully Pulpit
+Doris Keaerns Goodwin
+
+## Black Klansman
+Ron Stallworth
 
 ## The Vagabonds :star: :star: :star:
 Jeff Guin
