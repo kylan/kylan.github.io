@@ -3,6 +3,12 @@ layout: default
 title: Patents
 ---
 
+# [US10404714B1 Policy-managed physical access authentication](https://patentimages.storage.googleapis.com/34/70/65/1da08fb45c121a/US10404714.pdf)
+
+![](https://patentimages.storage.googleapis.com/47/73/f2/b48aae3f99da60/US10404714-20190903-D00000.png)
+
+Systems and methods are disclosed that provide for physical access management of an access-controlled area of a distributed site of an electric power delivery system using one or more one or more articulated access control policies. In some embodiments, to authenticate rights to access an access-controlled area, a first user may provide an associated access control system with credentials satisfying first authentication requirements based on an applicable policy. In connection with subsequent access authentication requests, the access control system may accept credentials satisfying second authentication requirements that may be different than the first authentication requirements. In this manner, access control requirements to the access-controlled area may be managed based on an associated articulated policy.
+
 # [US9779566B2 Resource management based on physical authentication and authorization](https://patentimages.storage.googleapis.com/26/f7/77/444d1e3b4f39cf/US9779566.pdf)
 
 ![](https://patentimages.storage.googleapis.com/f0/60/53/fb8a36a887bd1a/US09779566-20171003-D00000.png)
