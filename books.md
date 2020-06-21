@@ -5,6 +5,54 @@ title: Reading List
 
 # 2020
 
+## Spearhead
+Adam Makos
+
+## Camino Island
+John Grisham
+
+## When
+Daniel Pink
+
+## Educated
+Tara Westover
+
+## The Rooster Bar
+John Grisham
+
+## The Glass Castle
+Jeannette Walls
+
+## A Feast for Crows
+George R. R. Martin
+
+## The Zookeeper's Wife
+Diane Ackerman
+
+## A Storm of Swords
+George R. R. Martin
+
+## The Nickel Boys
+Colson Whitehead
+
+## A Clash of Kings
+George R. R. Martin
+
+## Small Great Things
+Jodi Picoult
+
+## Bad Blood
+John Carreyrou
+
+## Triptych
+Karin Slaughter
+
+## Armada
+Ernest Cline
+
+## Talk Like TED
+Carmine Gallo
+
 ## Creativity, Inc.
 Ed Catmull
 
