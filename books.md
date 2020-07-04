@@ -5,6 +5,9 @@ title: Reading List
 
 # 2020
 
+## Midnight in Chernobyl
+Adam Higginbotham
+
 ## Spearhead
 Adam Makos
 
