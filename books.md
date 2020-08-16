@@ -5,6 +5,21 @@ title: Reading List
 
 # 2020
 
+## Chance for Glory
+Darin Watkins
+
+## A Dance with Dragons
+George R. R. Martin
+
+## Furious Hours
+Casey Cep
+
+## The Reckoning
+John Grisham
+
+## Truly Madly Guilty
+Liane Moriarty
+
 ## Midnight in Chernobyl
 Adam Higginbotham
 
