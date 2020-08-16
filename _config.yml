@@ -14,7 +14,7 @@ header_pages:
   - index.md
   - cv.md
   - patents.md
-  - books.md
+  - recommendations.md
 plugins:
   - jemoji
 include: [".well-known"]
