@@ -9,7 +9,7 @@ title: 🏠
 
 <script src="assets/js/attributes.js"></script>
 
-# 📃 Posts
-# 💼 Curriculum Vitae
-# 💡 Patents
-# 👍 Recommendations
+# [📃 Posts](posts.md)
+# [💼 Curriculum Vitae](cv.md)
+# [💡 Patents](patents.md)
+# [👍 Recommendations](recommendations.md)
