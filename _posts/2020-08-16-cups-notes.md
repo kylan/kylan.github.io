@@ -9,7 +9,7 @@ The problem was exacerbated by the fact that we recently bought a Chromebook, an
 
 Fortunately, I had a Raspberry Pi available and connected to my home network. Why not turn it into a print server? My plan was to connect the ML-2165 to the Rasperry Pi via USB and use [CUPS](https://cups.org), the Common Unix Printing System, to expose the printer to the network. There are some good CUPS [installation](https://www.howtogeek.com/169679/how-to-add-a-printer-to-your-raspberry-pi-or-other-linux-computer/) [tutorials](https://www.raspberrypi.org/blog/printing-at-home-from-your-raspberry-pi/) out there, and I was up and running in a matter of minutes.
 
-Two problems, though. First, I wasn't able to find a good driver for the ML-2165. There were some Samsung models listed in the CUPS options, but nothing close enough to get a test page to print. The fix for that was to install SpliX, which is a set of drivers for Samsung printers.
+Two problems, though. First, I wasn't able to find a good driver for the ML-2165. There were some Samsung models listed in the CUPS options, but nothing close enough to get a test page to print. The fix for that was to install [SpliX](http://splix.ap2c.org/), which is a set of drivers for Samsung printers.
 
 ```
 sudo apt install printer-driver-splix
