@@ -1,13 +1,6 @@
 theme: minima
 title: KylanRobinson.com
 description: Personal site of Kylan Robinson
-social-network-links:
-  rss: true
-  email: "kylan@kylanrobinson.com"
-  github: kylan
-  twitter: kylan
-  instagram: kylanrobinson
-  linkedin: kylanrobinson
 sass:
   style: compressed
 header_pages:
@@ -19,3 +12,12 @@ header_pages:
 plugins:
   - jemoji
 include: [".well-known"]
+
+minima:
+  social_links:
+    twitter: kylan
+    github: kylan
+    instagram: kylanrobinson
+    linkedin: kylanrobinson
+    keybase: kylanrobinson
+    telegram: kylanrobinson
