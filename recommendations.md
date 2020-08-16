@@ -7,16 +7,18 @@ title: 👍
 
 ## :books: Books
 
-[![Extreme Ownership](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427163007l/23848190.jpg)](https://www.goodreads.com/book/show/23848190-extreme-ownership)
+Extreme Ownership
+[![Extreme Ownership](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427163007l/23848190.jpg | width=300)](https://www.goodreads.com/book/show/23848190-extreme-ownership)
 
 ## :movie_camera: Movies
 
 Yesterday
-[![Yesterday](https://m.media-amazon.com/images/M/MV5BMjQ0NTI0NjkyN15BMl5BanBnXkFtZTgwNzY0MTE0NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg)](https://www.imdb.com/title/tt8079248/)
+[![Yesterday](https://m.media-amazon.com/images/M/MV5BMjQ0NTI0NjkyN15BMl5BanBnXkFtZTgwNzY0MTE0NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg | width=300)](https://www.imdb.com/title/tt8079248/)
 
 ## :musical_note: Music
 
-[![Hello Hurricane](https://upload.wikimedia.org/wikipedia/en/7/70/Hellohurricane.jpg)](https://en.wikipedia.org/wiki/Hello_Hurricane)
+Hello Hurricane
+[![Hello Hurricane](https://upload.wikimedia.org/wikipedia/en/7/70/Hellohurricane.jpg | width=300)](https://en.wikipedia.org/wiki/Hello_Hurricane)
 
 # Reading List
 
