@@ -1,5 +1,5 @@
 ---
-layout: Posts
+layout: posts
 title: 📃
 ---
 
