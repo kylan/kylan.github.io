@@ -5,7 +5,7 @@ title: 👍
 
 # Recommendations
 
-## :books: Bpoks
+## :books: Books
 
 ## :movie_camera: Movies
 
