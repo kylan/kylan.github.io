@@ -3,7 +3,7 @@ layout: default
 title: 💡
 ---
 
-# Patents
+# 💡 Patents
 
 # [US10404714B1 Policy-managed physical access authentication](https://patentimages.storage.googleapis.com/34/70/65/1da08fb45c121a/US10404714.pdf)
 

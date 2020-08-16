@@ -3,7 +3,7 @@ layout: default
 title: 👍
 ---
 
-# Recommendations
+# 👍 Recommendations
 
 ## :books: Books
 

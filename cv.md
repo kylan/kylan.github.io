@@ -3,7 +3,7 @@ layout: default
 title: 💼
 ---
 
-# Curriculum Vitae
+# 💼 Curriculum Vitae
 
 ## Work Experience
 
