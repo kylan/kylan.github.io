@@ -11,6 +11,7 @@ header_pages:
   - recommendations.md
 plugins:
   - jemoji
+  - jekyll-feed
 include: [".well-known"]
 
 minima:
