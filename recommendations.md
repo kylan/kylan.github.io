@@ -5,11 +5,11 @@ title: 👍
 
 # Recommendations
 
-## :books:
+## :books: Bpoks
 
-## :movie_camera:
+## :movie_camera: Movies
 
-## :musical_note:
+## :musical_note: Music
 
 ### Reading List
 
