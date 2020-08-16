@@ -12,6 +12,7 @@ sass:
   style: compressed
 header_pages:
   - index.md
+  - posts.md
   - cv.md
   - patents.md
   - recommendations.md

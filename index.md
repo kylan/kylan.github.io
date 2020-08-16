@@ -8,3 +8,8 @@ title: 🏠
 </h2>
 
 <script src="assets/js/attributes.js"></script>
+
+# 📃 Posts
+# 💼 Curriculum Vitae
+# 💡 Patents
+# 👍 Recommendations
