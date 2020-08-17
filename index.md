@@ -4,10 +4,14 @@ title: 🏠
 ---
 
 <div>
-![Kylan](/img/headshot.jpg)
+  <p style="float: left;">
+    ![Kylan](/img/headshot.jpg)
+  </p>
 </div>
 <div style="clear: left;">
-I'm Kylan Robinson, and engineering manager from Pullman, Washington, USA.
+  <p style="float: left;">
+    I'm Kylan Robinson, and engineering manager from Pullman, Washington, USA.
+  </p>
 </div>
 
 # [📃 Posts](posts.md)
