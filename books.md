@@ -5,6 +5,9 @@ title: Reading List
 
 # 2020
 
+## The Dichotomy of Leadership
+Jocko Willink and Leif Babin
+
 ## Chance for Glory
 Darin Watkins
 
