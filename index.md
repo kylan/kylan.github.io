@@ -3,7 +3,7 @@ layout: home
 title: 🏠
 ---
 
-![Kylan](/assets/img/headshot.jpg"){: style="float: left; margin: 15px;"}
+![Kylan](/assets/img/headshot.jpg){: style="float: left; margin: 15px;"}
 
 I'm Kylan Robinson, a husband, father, and engineering manager from Pullman, Washington, USA.
 
