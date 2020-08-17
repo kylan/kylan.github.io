@@ -5,10 +5,8 @@ title: 🏠
 
 <div>
   <p style="float: left;">
-    ![Kylan](/img/headshot.jpg)
+    <img src="/img/headshot.jpg")>
   </p>
-</div>
-<div style="clear: left;">
   <p style="float: left;">
     I'm Kylan Robinson, and engineering manager from Pullman, Washington, USA.
   </p>
