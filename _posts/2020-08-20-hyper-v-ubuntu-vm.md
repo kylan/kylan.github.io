@@ -21,15 +21,15 @@ Even after I could ping the Ubuntu VM, I was unable to start an RDP session from
 
 To fix this, edit `/etc/xrdp/xrdp.ini` to change the following from
 
-'''
+```
 use_vsock=true
-'''
+```
 
 to
 
-'''
+```
 use_vsock=false
-'''
+```
 
 and restart xrdp with `sudo systemctl restart xrdp`.
 
@@ -41,10 +41,10 @@ It turns out that, by default, xrdp only allows one user session at a time. Sinc
 
 On the Ubuntu VM, edit `/etc/xrdp/startwm.sh` to add the following before the lines that test and execute the Xsession:
 
-'''
+```
 unset DBUS_SESSION_BUS_ADDRESS
 unset XDG_RUNTIME_DIR
 . $HOME/.profile
-'''
+```
 
 Restart xrdp again, and everything should be working!
