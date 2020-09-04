@@ -5,6 +5,12 @@ title: Reading List
 
 # 2020
 
+## How the Mighty Fall
+Jim Collins
+
+## The Guardians
+John Grisham
+
 ## The Dichotomy of Leadership
 Jocko Willink and Leif Babin
 
