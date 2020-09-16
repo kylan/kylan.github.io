@@ -5,6 +5,9 @@ title: 👍
 
 # 👍 Recommendations
 
+## :tv: Television
+[![Ted Lasso](https://m.media-amazon.com/images/M/MV5BY2MxYjVlNzAtMDdhOS00N2U2LThlYWQtN2MwMWJjYjFhYzM5XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_.jpg){:width="50%"}](https://www.imdb.com/title/tt10986410/)
+
 ## :books: Books
 
 [![Extreme Ownership](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427163007l/23848190.jpg){:width="50%"}](https://www.goodreads.com/book/show/23848190-extreme-ownership)
