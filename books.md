@@ -5,6 +5,9 @@ title: Reading List
 
 # 2020
 
+## When Breath Becomes Air
+Paul Kalanithi
+
 ## How the Mighty Fall
 Jim Collins
 
