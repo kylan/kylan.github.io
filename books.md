@@ -5,6 +5,15 @@ title: Reading List
 
 # 2020
 
+## The Ride of a Lifetime
+Robert Iger
+
+## The Splendid and the File
+Erik Larson
+
+## Games of Deception
+Andrew Maraniss
+
 ## When Breath Becomes Air
 Paul Kalanithi
 
