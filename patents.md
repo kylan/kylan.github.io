@@ -5,6 +5,13 @@ title: 💡
 
 # 💡 Patents
 
+# [US10380815B2 Transient asset management systems and methods]
+(https://patentimages.storage.googleapis.com/42/a2/ef/0c54e4b57786b5/US10380815.pdf)
+
+![](https://patentimages.storage.googleapis.com/0c/b6/60/e36b8107e49fda/US10380815-20190813-D00000.png)
+
+Systems and methods are disclosed that provide for managing transient assets used in connection with an access-controlled area of a distribution site of an electric power delivery system. In some embodiments, one or more users entering and access-controlled area may be identified via physical access control credentials provided to an associated access control system. Transient assets brought within an access-controlled area may be detected via one or more wired and/or wireless communication channels and may be associated with the one or more identified users located within the access-controlled area.
+
 # [US10404714B1 Policy-managed physical access authentication](https://patentimages.storage.googleapis.com/34/70/65/1da08fb45c121a/US10404714.pdf)
 
 ![](https://patentimages.storage.googleapis.com/47/73/f2/b48aae3f99da60/US10404714-20190903-D00000.png)
