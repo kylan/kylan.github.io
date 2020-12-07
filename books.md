@@ -5,6 +5,9 @@ title: Reading List
 
 # 2020
 
+## Shoe Dog
+Phil Knight
+
 ## The Ride of a Lifetime
 Robert Iger
 
