@@ -5,8 +5,7 @@ title: 💡
 
 # 💡 Patents
 
-# [US10380815B2 Transient asset management systems and methods]
-(https://patentimages.storage.googleapis.com/42/a2/ef/0c54e4b57786b5/US10380815.pdf)
+# [US10380815B2 Transient asset management systems and methods](https://patentimages.storage.googleapis.com/42/a2/ef/0c54e4b57786b5/US10380815.pdf)
 
 ![](https://patentimages.storage.googleapis.com/0c/b6/60/e36b8107e49fda/US10380815-20190813-D00000.png)
 
