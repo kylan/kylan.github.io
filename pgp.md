@@ -3,9 +3,7 @@ layout: default
 title: PGP
 ---
 
-Here is my personal PGP key:
-
-    Fingerprint: D1B2 A108 CB77 40F5
+Here is my personal PGP key, fingerprint `D1B2 A108 CB77 40F5`.
 
     
     -----BEGIN PGP PUBLIC KEY BLOCK-----
