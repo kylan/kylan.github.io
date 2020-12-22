@@ -15,6 +15,10 @@ plugins:
   - jekyll-seo-tag
 include: [".well-known"]
 
+author:
+  name: Kylan Robinson
+  email: "me@kylanrobinson.com"
+
 minima:
   social_links:
     twitter: kylan
