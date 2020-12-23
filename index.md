@@ -7,8 +7,8 @@ title: 🏠
 
 I'm Kylan Robinson, a husband, father, and engineer from Pullman, Washington, USA.
 
-[📃 Posts](posts.md) | [👍 Recommendations](recommendations.md)
+[📃 Posts](posts.md) \| [👍 Recommendations](recommendations.md)
 
-[💼 Curriculum Vitae](cv.md) | [💡 Patents](patents.md)
+[💼 Curriculum Vitae](cv.md) \| [💡 Patents](patents.md)
 
-[PGP](pgp.md) | [OID](oid.md)
+[🔑 PGP](pgp.md) \| [🌐 OID](oid.md)
