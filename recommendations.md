@@ -14,6 +14,8 @@ title: 👍
 
 ## :movie_camera: Movies
 
+[![Hamilton](https://m.media-amazon.com/images/M/MV5BMWVhM2RhZTMtYjk2Mi00YjJlLTg4ZTEtNjBmYzBlMTZlMmI0XkEyXkFqcGdeQXVyNTk5NTQzNDI@._V1_.jpg){:width="50%"}](https://www.imdb.com/title/tt8503618/)
+
 [![Yesterday](https://m.media-amazon.com/images/M/MV5BMjQ0NTI0NjkyN15BMl5BanBnXkFtZTgwNzY0MTE0NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg){:width="50%"}](https://www.imdb.com/title/tt8079248/)
 
 ## :musical_note: Music
