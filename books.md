@@ -3,7 +3,14 @@ layout: default
 title: Reading List
 ---
 
+# 2021
+
+
+
 # 2020
+
+## Rage
+Bob Woodward
 
 ## Shoe Dog
 Phil Knight
