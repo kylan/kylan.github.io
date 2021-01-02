@@ -22,6 +22,14 @@ title: 👍
 
 [![Hello Hurricane](https://upload.wikimedia.org/wikipedia/en/7/70/Hellohurricane.jpg){:width="50%"}](https://en.wikipedia.org/wiki/Hello_Hurricane)
 
+# 👍 Recommendations
+
+<ul>
+	{% for post in site.tags.recommendations %}
+		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
+
 # Reading List
 
 Since it's nice to keep track, here's a running [list of books](books.md) I've been reading.
