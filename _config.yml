@@ -1,29 +1,34 @@
-theme: minima
 title: KylanRobinson.com
+author:
+  name: Kylan Robinson
+  email: me@kylanrobinson.com
 description: Personal site of Kylan Robinson
-sass:
-  style: compressed
+
+minima:
+
+  social_links:
+    twitter: kylan
+    github: kylan
+    instagram: kylanrobinson
+    linkedin: kylanrobinson
+    telegram: kylanrobinson
+    keybase: kylanrobinson
+
 header_pages:
   - index.md
   - posts.md
   - cv.md
   - patents.md
   - recommendations.md
+
+theme: minima
+
 plugins:
   - jemoji
   - jekyll-feed
   - jekyll-seo-tag
+
+sass:
+  style: compressed
+
 include: [".well-known"]
-
-author:
-  name: Kylan Robinson
-  email: "me@kylanrobinson.com"
-
-minima:
-  social_links:
-    twitter: kylan
-    github: kylan
-    instagram: kylanrobinson
-    linkedin: kylanrobinson
-    keybase: kylanrobinson
-    telegram: kylanrobinson
