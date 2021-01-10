@@ -1,7 +1,12 @@
 title: KylanRobinson.com
 description: Personal site of Kylan Robinson
 
+twitter_username: kylan
+github_username: kylan
+
 minima:
+  instagram_username: kylanrobinson
+  linkedin_username: kylanrobinson
 
   social_links:
     twitter: kylan
