@@ -8,8 +8,8 @@ twitter_username: kylan
 github_username: kylan
 instagram_username: kylanrobinson
 linkedin_username: kylanrobinson
-#telegram_username: kylanrobinson
-#keybase_username: kylanrobinson
+telegram_username: kylanrobinson
+keybase_username: kylanrobinson
 
 header_pages:
   - index.md
