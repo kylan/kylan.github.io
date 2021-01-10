@@ -3,18 +3,10 @@ description: Personal site of Kylan Robinson
 
 twitter_username: kylan
 github_username: kylan
-
-minima:
-  instagram_username: kylanrobinson
-  linkedin_username: kylanrobinson
-
-  social_links:
-    twitter: kylan
-    github: kylan
-    instagram: kylanrobinson
-    linkedin: kylanrobinson
-    telegram: kylanrobinson
-    keybase: kylanrobinson
+instagram_username: kylanrobinson
+linkedin_username: kylanrobinson
+telegram_username: kylanrobinson
+keybase_username: kylanrobinson
 
 header_pages:
   - index.md
