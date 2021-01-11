@@ -3,8 +3,6 @@
 
 @import "{{ site.theme }}";
 
-@import url('https://fonts.googleapis.com/css?family=Oswald');
-
 .site-title {
   font-size: xx-large;
   font-weight: bold;
@@ -25,11 +23,4 @@
 
 .footer-col-3 {
   display: none;
-}
-
-#home-attributes {
-  text-align: justify;
-  font-family: 'Oswald', sans-serif;
-  color: #00000025;
-  font-size: 1.7em;
 }
