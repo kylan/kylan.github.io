@@ -18,6 +18,11 @@
   display: none;
 }
 
+.footer-col-1,
+.footer-col-2 {
+  width: calc(50% - (30px / 2));
+}
+
 #home-attributes {
   text-align: justify;
   font-family: 'Oswald', sans-serif;
