@@ -5,7 +5,26 @@ title: Reading List
 
 # 2021
 
+## The Wife Between Us
+Greer Hendricks and Sarah Pekkanen
 
+## Leonardo da Vinci
+Walter Isaacson
+
+## The Room Where It Happened
+John Bolton
+
+## Too Much and Never Enough
+Mary L. Trump
+
+## Daisy Jones & the Six
+Taylor Jenkins Reid
+
+## The Hitchhiker's Guide to the Galaxy
+Douglas Adams
+
+## Code Girls
+Liza Mundy
 
 # 2020
 
@@ -18,7 +37,7 @@ Phil Knight
 ## The Ride of a Lifetime
 Robert Iger
 
-## The Splendid and the File
+## The Splendid and the Vile
 Erik Larson
 
 ## Games of Deception
