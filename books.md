@@ -5,6 +5,111 @@ title: Reading List
 
 # 2021
 
+## Countdown to Zero Day
+Kim Zetter
+
+## Sherlock Holmes
+Arthur Conan Doyle
+
+## Patton
+Alan Axelrod
+
+## Falling
+T. J. Newman
+
+## The Reservoir
+David Duchovny
+
+## AC/DC
+Tom McNichol
+
+## The Liar's Girl
+Catherine Ryan Howard
+
+## When You Find Me
+P. J. Vernon
+
+## The Martian
+Andy Weir
+
+## Searching for Bobby Fischer
+Fred Waitzkin
+
+## Q&A
+Ben H. Winters
+
+## Super Mario
+Jeff Ryan
+
+## The Republic of Pirates
+Colin Woodard
+
+## The Beatles Play Shea
+James Woodall
+
+## Last Girl Gone
+J. G. Hetherton
+
+## Solid State
+Kenneth Womack and Alan Parsons
+
+## Project Hail Mary
+Andy Weir
+
+## The Queen's Gambit
+Walter Tevis
+
+## Trespassing Across America
+Ken Ilgunas
+
+## THe Dead Drink First
+Dale Maharidge
+
+## (The Moment in) 1965 (When Rock & Roll Becomes Art)
+Steve Earle
+
+## Walden on Wheels
+Ken Ilgunas
+
+## Sovereign
+Jeff Hirsch
+
+## How to Master the Art of Selling
+Tom Hopkins
+
+## The Coming Storm
+Michael Lews
+
+## 1984
+George Orwell
+
+## Thicker than Water
+Tyler Shultz
+
+## The Coldest Case
+James Patterson, Aaron Tracy, and Ryan Silbert
+
+## The Man Who Knew the Way to the Moon
+Todd Zwillich
+
+## Empire of the Summer Moon
+S. C. Gwynne
+
+## The Burnout Generation
+Anne Helen Petersen
+
+## Midnight Lunch
+Sarah Miller Caldicott
+
+## The Sisters
+Dervla McTiernan
+
+## Body of Proof
+Darrell Brown and Sophie Ellis
+
+## It Burns
+Marc Fennell
+
 ## The Wife Between Us
 Greer Hendricks and Sarah Pekkanen
 
