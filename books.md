@@ -62,7 +62,7 @@ Walter Tevis
 ## Trespassing Across America
 Ken Ilgunas
 
-## THe Dead Drink First
+## The Dead Drink First
 Dale Maharidge
 
 ## (The Moment in) 1965 (When Rock & Roll Becomes Art)
@@ -245,10 +245,7 @@ David Lagercrantz
 David Baldacci
 
 ## Nine Perfect Strangers
-Liance Moriarty
-
-## The Girl Who Lived Twice
-David Lagercrantz
+Liane Moriarty
 
 ## Lady in the Lake
 Laura Lippman
