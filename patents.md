@@ -5,13 +5,13 @@ title: 💡
 
 # 💡 Patents
 
-# [US11418432B1 Automated communication flow discovery and configuration in a software defined network] (https://patentimages.storage.googleapis.com/6e/a3/33/af95763211b4c1/US11418432.pdf)
+# [US11418432B1 Automated communication flow discovery and configuration in a software defined network](https://patentimages.storage.googleapis.com/6e/a3/33/af95763211b4c1/US11418432.pdf)
 
 ![](https://patentimages.storage.googleapis.com/a4/04/e5/20154f08abdac1/US11418432-20220816-D00000.png)
 
 The present disclosure pertains to systems and methods for automating the configuration of a software defined network (“SDN”). In one embodiment, a system may include a first communication host and a second communication host configured to transmit information to the first communication host. A network may provide communication between the first communication host and the second communication host using a plurality of network devices. An SDN controller in communication with the network may include an approved service subsystem to match the communication with an approved service. The SDN controller may also include an analysis subsystem configured to identify a communication flow corresponding to information transmitted by the second communication host to the first communication host. A traffic routing subsystem of the SDN controller may create the communication flow identified by the analysis subsystem between the second communication host and the first communication host.
 
-# [US11323362B2 Resilience to single event upsets in software defined networks] (https://patentimages.storage.googleapis.com/90/db/79/8727002f15dc7f/US11323362.pdf)
+# [US11323362B2 Resilience to single event upsets in software defined networks](https://patentimages.storage.googleapis.com/90/db/79/8727002f15dc7f/US11323362.pdf)
 
 ![](https://patentimages.storage.googleapis.com/b6/93/1e/e1f681d4aefc39/US11323362-20220503-D00000.png)
 
