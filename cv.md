@@ -28,5 +28,5 @@ title: 💼
 ## Certifications
 
 * [(ISC)<sup>2</sup> Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
-* [ISO 9001:2015 Internal Auditor](https://www.kelmacinternational.com/product-category/iso-9001-training/)
+* ISO 9001:2015 Internal Auditor
 * [Licensed amateur radio operator](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service)
