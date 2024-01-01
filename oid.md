@@ -3,7 +3,7 @@ layout: default
 title: OID
 ---
 
-I have my own Private Enterprise Number (PEN) Object Identifier (OID) assigned by the Internet Assigned Numbers Authority (IANA). It's 1.3.6.1.4.1.56729, as recorded [here](https://www.iana.org/assignments/enterprise-numbers/enterprise-numbers).
+I have my own Private Enterprise Number (PEN) Object Identifier (OID) assigned by the Internet Assigned Numbers Authority (IANA). It's 1.3.6.1.4.1.56729, as recorded [here](https://www.iana.org/assignments/enterprise-numbers/?q=56729).
 
 	Decimal
 	| Organization
