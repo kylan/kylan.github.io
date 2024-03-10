@@ -17,7 +17,7 @@ header_pages:
   - patents.md
   - recommendations.md
 
-theme: minima
+theme: cayman
 
 plugins:
   - jemoji
