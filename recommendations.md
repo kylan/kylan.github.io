@@ -1,9 +1,10 @@
 ---
 layout: default
-title: 👍
+title: Recommendations
+description: Recommendations and a reading list.
 ---
 
-# 👍 Recommendations
+# Recommendations
 
 <ul>
 	{% for post in site.tags.recommendations %}

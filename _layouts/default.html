@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+  {% include header.html %}
+  <main id="content">
+    <div class="wrap">
+      {% if page.layout == "home" %}
+        {{ content }}
+      {% elsif page.layout == "post" or page.layout == "posts" %}
+        <div class="measure">
+          {{ content }}
+        </div>
+      {% else %}
+        <div class="measure prose">
+          {{ content }}
+        </div>
+      {% endif %}
+    </div>
+  </main>
+  {% include footer.html %}
+</body>
+</html>
