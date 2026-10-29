@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<article class="entry">
+  <header class="entry-header">
+    <p class="kicker"><time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+  <div class="prose">
+    {{ content }}
+  </div>
+  <p class="back-link"><a href="{{ '/posts.html' | relative_url }}">All posts</a></p>
+</article>

@@ -1,14 +1,18 @@
 ---
 layout: home
-title: 🏠
+description: Kylan Robinson is a husband, father, and engineer from Pullman, Washington.
+image: /assets/img/headshot.jpg
 ---
 
-![Kylan](/assets/img/headshot.jpg){: style="float: left; margin: 15px;"}
+![Portrait of Kylan Robinson](/assets/img/headshot.jpg){:width="363" height="363"}
 
 I'm Kylan Robinson, a husband, father, and engineer from Pullman, Washington, USA.
 
-[📃 Posts](posts.md) \| [👍 Recommendations](recommendations.md)
+## On this site
 
-[💼 Curriculum Vitae](cv.md) \| [💡 Patents](patents.md)
-
-[🔑 PGP](pgp.md) \| [🌐 OID](oid.md)
+- [Posts](posts.md)
+- [Recommendations](recommendations.md)
+- [Curriculum Vitae](cv.md)
+- [Patents](patents.md)
+- [PGP](pgp.md)
+- [OID](oid.md)

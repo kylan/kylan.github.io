@@ -1,29 +1,54 @@
 ---
 layout: default
-title: 💼
+title: Curriculum Vitae
+description: Work experience, education, and certifications.
 ---
 
-# 💼 Curriculum Vitae
+# Curriculum Vitae
 
 ## Work Experience
 
 ### Schweitzer Engineering Laboratories
 
-| Dates          | Title                       | Responsibilities                                                        |
-|----------------|-----------------------------|-------------------------------------------------------------------------|
-| 2022 - Present | Engineering Director        | Start a new marine switchgear product line                              |
-| 2017 - 2022    | Senior Engineering Manager  | Owner of LAN and Security product lines and firmware/software processes |
-| 2014 - 2017    | Development Manager         | Led firmware development of LAN and Security products                   |
-| 2008 - 2014    | Software Engineer           | Wrote C/C++, Python, and SQL for Security products                      |
+<div class="role">
+  <h4>Engineering Director</h4>
+  <p class="when">2022 - Present</p>
+  <p>Start a new marine switchgear product line</p>
+</div>
+
+<div class="role">
+  <h4>Senior Engineering Manager</h4>
+  <p class="when">2017 - 2022</p>
+  <p>Owner of LAN and Security product lines and firmware/software processes</p>
+</div>
+
+<div class="role">
+  <h4>Development Manager</h4>
+  <p class="when">2014 - 2017</p>
+  <p>Led firmware development of LAN and Security products</p>
+</div>
+
+<div class="role">
+  <h4>Software Engineer</h4>
+  <p class="when">2008 - 2014</p>
+  <p>Wrote C/C++, Python, and SQL for Security products</p>
+</div>
 
 ## Education
 
 ### Washington State University
 
-| Dates       | Degree                                    | Achievements                                                                                                                                                                                                          |
-|-------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2007 - 2010 | Master of Science, Computer Engineering   | Thesis: [An IDE for Medium-Grain Reconfigurable Hardware](assets/pdf/thesis.pdf)                                                                                                                                      |
-| 2003 - 2007 | Bachelor of Science, Computer Engineering | [Distinguished Regents Scholar](https://news.wsu.edu/2002/10/24/wsu-announces-regents-scholars-for-2003/), [Honors College Dean's Award](https://news.wsu.edu/2007/05/08/wsu-honors-college-awards-faculty-students/) |
+<div class="role">
+  <h4>Master of Science, Computer Engineering</h4>
+  <p class="when">2007 - 2010</p>
+  <p>Thesis: <a href="/assets/pdf/thesis.pdf">An IDE for Medium-Grain Reconfigurable Hardware</a></p>
+</div>
+
+<div class="role">
+  <h4>Bachelor of Science, Computer Engineering</h4>
+  <p class="when">2003 - 2007</p>
+  <p><a href="https://news.wsu.edu/2002/10/24/wsu-announces-regents-scholars-for-2003/">Distinguished Regents Scholar</a>, <a href="https://news.wsu.edu/2007/05/08/wsu-honors-college-awards-faculty-students/">Honors College Dean's Award</a></p>
+</div>
 
 ## Certifications
 

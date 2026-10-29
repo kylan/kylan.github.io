@@ -1,7 +1,10 @@
 ---
 layout: default
 title: PGP
+description: Personal PGP public key for Kylan Robinson, fingerprint D1B2 A108 CB77 40F5.
 ---
+
+# PGP
 
 Here is my personal PGP key, fingerprint `D1B2 A108 CB77 40F5`.
 

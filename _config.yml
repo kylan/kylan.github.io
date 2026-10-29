@@ -1,31 +1,45 @@
-title: KylanRobinson.com
+title: Kylan Robinson
+tagline: Husband, father, and engineer
+description: Kylan Robinson is a husband, father, and engineer from Pullman, Washington.
+url: https://kylanrobinson.com
+lang: en_US
+timezone: UTC
 
 author: Kylan Robinson
 email: me@kylanrobinson.com
 
-twitter_username: kylan
+# Handles already published in this config. The previous theme did not render them.
+twitter:
+  username: kylan
+  card: summary
 github_username: kylan
 instagram_username: kylanrobinson
 linkedin_username: kylanrobinson
 telegram_username: kylanrobinson
 keybase_username: kylanrobinson
 
-header_pages:
-  - index.md
-  - posts.md
-  - cv.md
-  - patents.md
-  - recommendations.md
+social:
+  name: Kylan Robinson
+  links:
+    - https://github.com/kylan
+    - https://www.linkedin.com/in/kylanrobinson
+    - https://www.instagram.com/kylanrobinson
+    - https://twitter.com/kylan
+    - https://t.me/kylanrobinson
+    - https://keybase.io/kylanrobinson
 
-remote_theme: pages-themes/cayman@v0.2.0
-
+# Keep Jekyll's default permalinks so /cv.html and /2023/01/21/think-different.html stay valid.
 plugins:
-  - jemoji
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
 
-sass:
-  style: compressed
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/headshot.jpg
 
-include: [".well-known"]
+include:
+  - .well-known

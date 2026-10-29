@@ -1,6 +1,7 @@
 ---
 layout: posts
-title: 📃
+title: Posts
+description: Notes and posts.
 ---
 
 # Posts
