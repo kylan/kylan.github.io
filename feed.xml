@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kylan Robinson</title>
+  <subtitle>Kylan Robinson is a father and engineer from Pullman, Washington.</subtitle>
+  <link href="https://kylanrobinson.com/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://kylanrobinson.com/" rel="alternate" type="text/html"/>
+  <id>https://kylanrobinson.com/</id>
+  <updated>2026-10-30T00:00:00Z</updated>
+  <author>
+    <name>Kylan Robinson</name>
+  </author>
+</feed>
