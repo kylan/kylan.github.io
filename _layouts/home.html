@@ -5,23 +5,19 @@ layout: default
 <div class="home">
   <div class="home-intro">
     <h1>Kylan Robinson</h1>
+    <p class="role-line">Engineering Director, Schweitzer Engineering Laboratories</p>
     {{ content }}
   </div>
 
-  {% if site.posts.size > 0 %}
-  <section class="latest" aria-labelledby="recent-posts">
-    <div class="section-head">
-      <h2 id="recent-posts">Recent posts</h2>
-      <a href="{{ '/posts.html' | relative_url }}">All posts</a>
+  {% include experience.html %}
+
+  <section id="patents" class="block">
+    <h2>Patents</h2>
+    <div class="prose">
+      {% capture patent_md %}{% include patents.md %}{% endcapture %}
+      {{ patent_md | markdownify }}
     </div>
-    <ul class="latest-list">
-      {% for post in site.posts limit:4 %}
-      <li>
-        <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-      </li>
-      {% endfor %}
-    </ul>
   </section>
-  {% endif %}
+
+  {% include lainey.html %}
 </div>

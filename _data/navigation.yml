@@ -1,8 +1,8 @@
-- title: Posts
-  url: /posts.html
-- title: CV
-  url: /cv.html
+- title: Experience
+  url: /#experience
 - title: Patents
-  url: /patents.html
-- title: Recommendations
-  url: /recommendations.html
+  url: /#patents
+- title: Projects
+  url: /#projects
+- title: Contact
+  url: /#contact
