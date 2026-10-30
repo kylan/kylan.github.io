@@ -195,12 +195,13 @@ p {
   grid-template-columns: minmax(0, 1fr) min(16.5rem, 38%);
   column-gap: 2.75rem;
   row-gap: 0.35rem;
-  align-items: start;
+  align-items: center;
 }
 
 .home-intro h1 {
   grid-column: 1;
-  margin: 0 0 0.35rem;
+  align-self: end;
+  margin: 0 0 0.15rem;
   font-size: clamp(2.6rem, 5vw, 3.75rem);
   line-height: 1.02;
   letter-spacing: -0.035em;
@@ -209,8 +210,8 @@ p {
 
 .home-intro > p:has(img) {
   grid-column: 2;
-  grid-row: 1 / span 4;
-  margin: 0.35rem 0 0;
+  grid-row: 1 / -1;
+  margin: 0;
 }
 
 .home-intro > p:has(img) img {
@@ -223,7 +224,8 @@ p {
 
 .home-intro > .role-line {
   grid-column: 1;
-  margin: 0.15rem 0 0;
+  align-self: start;
+  margin: 0.35rem 0 0;
   color: var(--muted);
   font-size: 1.05rem;
 }
@@ -562,11 +564,17 @@ pre code {
     grid-template-columns: 1fr;
   }
 
+  .home-intro h1,
+  .home-intro > .role-line {
+    align-self: auto;
+  }
+
   .home-intro > p:has(img) {
     grid-column: 1;
     grid-row: auto;
+    align-self: auto;
     width: min(15rem, 70%);
-    margin: 0.85rem 0 0.2rem;
+    margin: 1.15rem 0 0.2rem;
   }
 
   .latest-list {
