@@ -11,6 +11,10 @@
   --accent-hover: #072c29;
   --crimson: #8e1d32;
   --yellow: #e6cf2a;
+  --teal: #0e4c47;
+  --bone: #f3eee4;
+  --orange: #e86a32;
+  --lime: #c6e04a;
   --copper: var(--crimson);
   --focus: var(--accent-ink);
   --code-bg: #1c1410;
@@ -719,6 +723,190 @@ details img {
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
+  }
+}
+
+body {
+  background: var(--teal);
+  overflow-x: clip;
+}
+
+main {
+  background: var(--bone);
+  color: var(--ink);
+}
+
+body:has(.home) main {
+  background: transparent;
+  color: var(--bone);
+  padding: 0;
+}
+
+.site-header {
+  background: var(--teal);
+  color: var(--bone);
+  border-bottom: 8px solid var(--bone);
+  box-shadow: none;
+}
+
+.site-header .wordmark,
+.site-header .nav a {
+  color: var(--bone);
+}
+
+.site-header .wordmark:hover,
+.site-header .nav a:hover {
+  color: var(--yellow);
+}
+
+.site-header .nav a[aria-current="page"] {
+  color: var(--yellow);
+  box-shadow: inset 0 -3px 0 var(--yellow);
+}
+
+.home-intro {
+  color: var(--bone);
+  padding: 2.75rem 0 3.25rem;
+}
+
+.home-intro h1,
+.home-intro > p:not(:has(img)):not(.role-line) {
+  color: var(--bone);
+}
+
+.home-intro > .role-line {
+  color: var(--lime);
+}
+
+.home-intro > p:has(img) img {
+  border: 6px solid var(--bone);
+  box-shadow: 10px 10px 0 var(--lime);
+}
+
+#experience,
+#patents,
+#projects {
+  position: relative;
+  z-index: 0;
+  margin: 0;
+  border: 0;
+  padding: 2.75rem 0;
+}
+
+#experience::before,
+#patents::before,
+#projects::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 100vw;
+  transform: translateX(-50%);
+}
+
+#experience {
+  color: var(--ink);
+}
+
+#experience::before {
+  background: var(--yellow);
+  border-top: 8px solid var(--teal);
+  border-bottom: 8px solid var(--ink);
+}
+
+#experience .role,
+#experience h3 {
+  border-color: rgba(28, 20, 16, 0.28);
+}
+
+#patents {
+  color: var(--ink);
+  background: transparent;
+}
+
+#patents::before {
+  background: var(--bone);
+  border-top: 8px solid var(--bone);
+  border-bottom: 8px solid var(--teal);
+}
+
+#projects {
+  color: var(--bone);
+}
+
+#projects::before {
+  background: var(--teal);
+  border-top: 8px solid var(--bone);
+  border-bottom: 8px solid var(--bone);
+}
+
+#projects h2,
+#projects h3,
+#projects h4,
+#projects .season > summary,
+#projects .season > summary h4,
+#projects .episode span,
+#projects p {
+  color: var(--bone);
+}
+
+#projects a {
+  color: var(--yellow);
+}
+
+#projects a:hover {
+  color: var(--lime);
+}
+
+#projects .season,
+#projects .episode {
+  border-top-color: rgba(243, 238, 228, 0.45);
+}
+
+#projects .season > summary::before {
+  border-right-color: var(--yellow);
+  border-bottom-color: var(--yellow);
+}
+
+#projects .episode audio {
+  background: var(--bone);
+  border-radius: 999px;
+}
+
+.site-footer {
+  background: var(--orange);
+  color: var(--ink);
+  border-top: 8px solid var(--ink);
+}
+
+.site-footer h2,
+.site-footer .footer-name,
+.site-footer .footer-place,
+.site-footer .footer-links a {
+  color: var(--ink);
+}
+
+.site-footer .footer-links a:hover {
+  color: var(--accent-hover);
+}
+
+.site-header :focus-visible,
+.home-intro :focus-visible,
+#projects :focus-visible {
+  outline-color: var(--yellow);
+}
+
+#experience :focus-visible,
+#patents :focus-visible,
+.site-footer :focus-visible {
+  outline-color: var(--ink);
+}
+
+@media (max-width: 760px) {
+  body:has(.home) main {
+    padding-top: 0;
   }
 }
 
