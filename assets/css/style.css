@@ -612,11 +612,48 @@ pre code {
 }
 
 .seasons > li {
-  padding: 0.85rem 0;
+  padding: 0;
   border-top: 1px solid var(--line);
 }
 
-.seasons h4 {
+.season {
+  margin: 0;
+}
+
+.season > summary {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  min-height: 2.75rem;
+  padding: 0.7rem 0;
+  cursor: pointer;
+  list-style: none;
+  color: var(--ink);
+}
+
+.season > summary::-webkit-details-marker {
+  display: none;
+}
+
+.season > summary::marker {
+  content: "";
+}
+
+.season > summary::before {
+  content: "";
+  flex: none;
+  width: 0.45rem;
+  height: 0.45rem;
+  border-right: 2px solid var(--accent-ink);
+  border-bottom: 2px solid var(--accent-ink);
+  transform: rotate(-45deg);
+}
+
+.season[open] > summary::before {
+  transform: rotate(45deg);
+}
+
+.season > summary h4 {
   margin: 0;
 }
 
