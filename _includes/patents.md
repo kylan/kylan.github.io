@@ -1,3 +1,15 @@
+### [US12160363B2 Incorporation of parallel redundancy protocol in a software defined network](https://patentimages.storage.googleapis.com/58/95/b1/a75ef809aea2ce/US12160363.pdf)
+
+<details markdown="1">
+<summary>Drawing sheet</summary>
+
+![Drawing sheet for US12160363B2](https://patentimages.storage.googleapis.com/2f/0b/b9/12a1a4b9d66362/US12160363-20241203-D00000.png){:loading="lazy"}
+
+</details>
+
+
+This disclosure pertains to identifying and configuring an in-band controller operating on a host in a software defined network (SDN), the host configured to use a parallel redundancy protocol (PRP). In one embodiment, a system may include a network in communication with the host, the network comprising a plurality of switches interconnected with a plurality of physical links. The in-band controller is in communication with the network and includes a PRP identification subsystem to generate a packet configured such that the network forwards the packet back to the in-band controller, to analyze the packet and determine that the packet conforms to PRP, and to identify a first communication host in communication with the network and configured to operate using PRP. A traffic routing subsystem of the in-band controller may create a plurality of PRP communication flows between the in-band controller and the first communication host.
+
 ### [US11418432B1 Automated communication flow discovery and configuration in a software defined network](https://patentimages.storage.googleapis.com/6e/a3/33/af95763211b4c1/US11418432.pdf)
 
 <details markdown="1">
