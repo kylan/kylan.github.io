@@ -1,5 +1,6 @@
-<footer class="site-footer">
+<footer class="site-footer" id="contact">
   <div class="wrap">
+    <h2>Contact</h2>
     <p class="footer-id">
       <span class="footer-name">Kylan Robinson</span>
       <span class="footer-place">Pullman, Washington</span>
@@ -28,7 +29,6 @@
       {% endif %}
       <li><a href="{{ '/pgp.html' | relative_url }}"{% if page.url == '/pgp.html' %} aria-current="page"{% endif %}>PGP</a></li>
       <li><a href="{{ '/oid.html' | relative_url }}"{% if page.url == '/oid.html' %} aria-current="page"{% endif %}>OID</a></li>
-      <li><a href="{{ '/feed.xml' | relative_url }}">RSS</a></li>
     </ul>
   </div>
 </footer>

@@ -28,18 +28,26 @@ social:
     - https://t.me/kylanrobinson
     - https://keybase.io/kylanrobinson
 
-# Keep Jekyll's default permalinks so /cv.html and /2023/01/21/think-different.html stay valid.
+# Keep Jekyll's default permalinks so existing /year/month/day/title.html URLs stay valid.
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-relative-links
+  - jekyll-redirect-from
+
+redirect_from:
+  json: false
 
 defaults:
   - scope:
       path: ""
     values:
       image: /assets/img/headshot.jpg
+  - scope:
+      type: posts
+    values:
+      sitemap: false
+      noindex: true
 
 include:
   - .well-known

@@ -2,6 +2,8 @@
 layout: default
 title: Recommendations
 description: Recommendations and a reading list.
+sitemap: false
+noindex: true
 ---
 
 # Recommendations
