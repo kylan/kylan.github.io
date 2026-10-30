@@ -114,7 +114,7 @@ img {
   font-family: var(--serif);
   font-size: 1.35rem;
   font-weight: 600;
-  letter-spacing: -0.02em;
+  letter-spacing: 0.06em;
   color: var(--ink);
   text-decoration: none;
   padding: 0.35rem 0;
