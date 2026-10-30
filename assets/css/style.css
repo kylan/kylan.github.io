@@ -1,14 +1,26 @@
 :root {
-  --bg: #f4f0e8;
-  --ink: #1a1814;
-  --muted: #514c45;
-  --line: #e2dbd0;
-  --accent: #1e4d3a;
-  --accent-ink: #143628;
-  --copper: #8a4b2f;
-  --focus: #143628;
-  --code-bg: #1a1814;
-  --code-fg: #f4f0e8;
+  /* Hour of Incense: bone ground, near-black brown, deep teal field,
+     lemon stripe, crimson marks. Yellow and lime are not used for text. */
+  --bg: #f3eee4;
+  --surface: #fffaf3;
+  --ink: #1c1410;
+  --muted: #5c4034;
+  --line: #ddd4c6;
+  --accent: #0e4c47;
+  --accent-ink: #0c3f3b;
+  --accent-hover: #072c29;
+  --crimson: #8e1d32;
+  --yellow: #e6cf2a;
+  --teal: #0e4c47;
+  --bone: #f3eee4;
+  --orange: #e86a32;
+  --lime: #c6e04a;
+  --copper: var(--crimson);
+  --focus: var(--accent-ink);
+  --code-bg: #1c1410;
+  --code-fg: #f3eee4;
+  --code-inline: #e7dccb;
+  --selection: #d5ebe6;
   --serif: "Newsreader", "Iowan Old Style", Palatino, "Palatino Linotype", Georgia, serif;
   --sans: "Public Sans", "Segoe UI", sans-serif;
   --mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
@@ -52,7 +64,7 @@ img {
 }
 
 ::selection {
-  background: #d5e3da;
+  background: var(--selection);
   color: var(--ink);
 }
 
@@ -86,7 +98,7 @@ img {
   z-index: 10;
   background: var(--bg);
   border-bottom: 1px solid var(--line);
-  box-shadow: inset 0 3px 0 var(--accent);
+  box-shadow: inset 0 3px 0 var(--yellow);
 }
 
 .header-inner {
@@ -206,7 +218,7 @@ p {
   display: block;
   border-radius: 2px;
   border: 1px solid var(--line);
-  box-shadow: 0 16px 40px rgba(26, 24, 20, 0.1);
+  box-shadow: 0 16px 40px rgba(28, 20, 16, 0.12);
 }
 
 .home-intro > .role-line {
@@ -257,7 +269,7 @@ p {
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 0.18em;
-  text-decoration-color: rgba(20, 54, 40, 0.35);
+  text-decoration-color: rgba(12, 63, 59, 0.4);
 }
 
 .home-intro li a:hover {
@@ -380,7 +392,7 @@ p {
 }
 
 .prose a:hover {
-  color: #0f2e20;
+  color: var(--accent-hover);
 }
 
 .prose img {
@@ -390,7 +402,7 @@ p {
   margin: 1rem 0;
   border: 1px solid var(--line);
   border-radius: 4px;
-  background: #fff;
+  background: var(--surface);
 }
 
 .prose iframe {
@@ -473,7 +485,7 @@ pre {
 p code,
 li code,
 td code {
-  background: #e9e3d9;
+  background: var(--code-inline);
   padding: 0.08em 0.35em;
   border-radius: 4px;
   font-size: 0.9em;
@@ -598,7 +610,7 @@ pre code {
 }
 
 .block a:hover {
-  color: #0f2e20;
+  color: var(--accent-hover);
 }
 
 .site-footer h2 {
@@ -644,8 +656,8 @@ pre code {
   flex: none;
   width: 0.45rem;
   height: 0.45rem;
-  border-right: 2px solid var(--accent-ink);
-  border-bottom: 2px solid var(--accent-ink);
+  border-right: 2px solid var(--crimson);
+  border-bottom: 2px solid var(--crimson);
   transform: rotate(-45deg);
 }
 
@@ -711,6 +723,190 @@ details img {
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
+  }
+}
+
+body {
+  background: var(--teal);
+  overflow-x: clip;
+}
+
+main {
+  background: var(--bone);
+  color: var(--ink);
+}
+
+body:has(.home) main {
+  background: transparent;
+  color: var(--bone);
+  padding: 0;
+}
+
+.site-header {
+  background: var(--teal);
+  color: var(--bone);
+  border-bottom: 8px solid var(--bone);
+  box-shadow: none;
+}
+
+.site-header .wordmark,
+.site-header .nav a {
+  color: var(--bone);
+}
+
+.site-header .wordmark:hover,
+.site-header .nav a:hover {
+  color: var(--yellow);
+}
+
+.site-header .nav a[aria-current="page"] {
+  color: var(--yellow);
+  box-shadow: inset 0 -3px 0 var(--yellow);
+}
+
+.home-intro {
+  color: var(--bone);
+  padding: 2.75rem 0 3.25rem;
+}
+
+.home-intro h1,
+.home-intro > p:not(:has(img)):not(.role-line) {
+  color: var(--bone);
+}
+
+.home-intro > .role-line {
+  color: var(--lime);
+}
+
+.home-intro > p:has(img) img {
+  border: 6px solid var(--bone);
+  box-shadow: 10px 10px 0 var(--lime);
+}
+
+#experience,
+#patents,
+#projects {
+  position: relative;
+  z-index: 0;
+  margin: 0;
+  border: 0;
+  padding: 2.75rem 0;
+}
+
+#experience::before,
+#patents::before,
+#projects::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 100vw;
+  transform: translateX(-50%);
+}
+
+#experience {
+  color: var(--ink);
+}
+
+#experience::before {
+  background: var(--yellow);
+  border-top: 8px solid var(--teal);
+  border-bottom: 8px solid var(--ink);
+}
+
+#experience .role,
+#experience h3 {
+  border-color: rgba(28, 20, 16, 0.28);
+}
+
+#patents {
+  color: var(--ink);
+  background: transparent;
+}
+
+#patents::before {
+  background: var(--bone);
+  border-top: 8px solid var(--bone);
+  border-bottom: 8px solid var(--teal);
+}
+
+#projects {
+  color: var(--bone);
+}
+
+#projects::before {
+  background: var(--teal);
+  border-top: 8px solid var(--bone);
+  border-bottom: 8px solid var(--bone);
+}
+
+#projects h2,
+#projects h3,
+#projects h4,
+#projects .season > summary,
+#projects .season > summary h4,
+#projects .episode span,
+#projects p {
+  color: var(--bone);
+}
+
+#projects a {
+  color: var(--yellow);
+}
+
+#projects a:hover {
+  color: var(--lime);
+}
+
+#projects .season,
+#projects .episode {
+  border-top-color: rgba(243, 238, 228, 0.45);
+}
+
+#projects .season > summary::before {
+  border-right-color: var(--yellow);
+  border-bottom-color: var(--yellow);
+}
+
+#projects .episode audio {
+  background: var(--bone);
+  border-radius: 999px;
+}
+
+.site-footer {
+  background: var(--orange);
+  color: var(--ink);
+  border-top: 8px solid var(--ink);
+}
+
+.site-footer h2,
+.site-footer .footer-name,
+.site-footer .footer-place,
+.site-footer .footer-links a {
+  color: var(--ink);
+}
+
+.site-footer .footer-links a:hover {
+  color: var(--accent-hover);
+}
+
+.site-header :focus-visible,
+.home-intro :focus-visible,
+#projects :focus-visible {
+  outline-color: var(--yellow);
+}
+
+#experience :focus-visible,
+#patents :focus-visible,
+.site-footer :focus-visible {
+  outline-color: var(--ink);
+}
+
+@media (max-width: 760px) {
+  body:has(.home) main {
+    padding-top: 0;
   }
 }
 
