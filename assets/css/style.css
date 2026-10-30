@@ -1,14 +1,22 @@
 :root {
-  --bg: #f4f0e8;
-  --ink: #1a1814;
-  --muted: #514c45;
-  --line: #e2dbd0;
-  --accent: #1e4d3a;
-  --accent-ink: #143628;
-  --copper: #8a4b2f;
-  --focus: #143628;
-  --code-bg: #1a1814;
-  --code-fg: #f4f0e8;
+  /* Hour of Incense: bone ground, near-black brown, deep teal field,
+     lemon stripe, crimson marks. Yellow and lime are not used for text. */
+  --bg: #f3eee4;
+  --surface: #fffaf3;
+  --ink: #1c1410;
+  --muted: #5c4034;
+  --line: #ddd4c6;
+  --accent: #0e4c47;
+  --accent-ink: #0c3f3b;
+  --accent-hover: #072c29;
+  --crimson: #8e1d32;
+  --yellow: #e6cf2a;
+  --copper: var(--crimson);
+  --focus: var(--accent-ink);
+  --code-bg: #1c1410;
+  --code-fg: #f3eee4;
+  --code-inline: #e7dccb;
+  --selection: #d5ebe6;
   --serif: "Newsreader", "Iowan Old Style", Palatino, "Palatino Linotype", Georgia, serif;
   --sans: "Public Sans", "Segoe UI", sans-serif;
   --mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
@@ -52,7 +60,7 @@ img {
 }
 
 ::selection {
-  background: #d5e3da;
+  background: var(--selection);
   color: var(--ink);
 }
 
@@ -86,7 +94,7 @@ img {
   z-index: 10;
   background: var(--bg);
   border-bottom: 1px solid var(--line);
-  box-shadow: inset 0 3px 0 var(--accent);
+  box-shadow: inset 0 3px 0 var(--yellow);
 }
 
 .header-inner {
@@ -206,7 +214,7 @@ p {
   display: block;
   border-radius: 2px;
   border: 1px solid var(--line);
-  box-shadow: 0 16px 40px rgba(26, 24, 20, 0.1);
+  box-shadow: 0 16px 40px rgba(28, 20, 16, 0.12);
 }
 
 .home-intro > .role-line {
@@ -257,7 +265,7 @@ p {
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 0.18em;
-  text-decoration-color: rgba(20, 54, 40, 0.35);
+  text-decoration-color: rgba(12, 63, 59, 0.4);
 }
 
 .home-intro li a:hover {
@@ -380,7 +388,7 @@ p {
 }
 
 .prose a:hover {
-  color: #0f2e20;
+  color: var(--accent-hover);
 }
 
 .prose img {
@@ -390,7 +398,7 @@ p {
   margin: 1rem 0;
   border: 1px solid var(--line);
   border-radius: 4px;
-  background: #fff;
+  background: var(--surface);
 }
 
 .prose iframe {
@@ -473,7 +481,7 @@ pre {
 p code,
 li code,
 td code {
-  background: #e9e3d9;
+  background: var(--code-inline);
   padding: 0.08em 0.35em;
   border-radius: 4px;
   font-size: 0.9em;
@@ -598,7 +606,7 @@ pre code {
 }
 
 .block a:hover {
-  color: #0f2e20;
+  color: var(--accent-hover);
 }
 
 .site-footer h2 {
@@ -644,8 +652,8 @@ pre code {
   flex: none;
   width: 0.45rem;
   height: 0.45rem;
-  border-right: 2px solid var(--accent-ink);
-  border-bottom: 2px solid var(--accent-ink);
+  border-right: 2px solid var(--crimson);
+  border-bottom: 2px solid var(--crimson);
   transform: rotate(-45deg);
 }
 
