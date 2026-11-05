@@ -750,6 +750,10 @@ body:has(.home) main {
   padding: 0;
 }
 
+body:has(.recommends) main {
+  padding-top: 0;
+}
+
 .site-header {
   background: var(--teal);
   color: var(--bone);
@@ -915,6 +919,167 @@ body:has(.home) main {
 @media (max-width: 760px) {
   body:has(.home) main {
     padding-top: 0;
+  }
+}
+
+.recommends {
+  color: var(--ink);
+}
+
+.rec-hero {
+  position: relative;
+  z-index: 0;
+  margin: 0 0 2.5rem;
+  padding: 2.4rem 0 1.6rem;
+  color: var(--bone);
+}
+
+.rec-hero::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 100vw;
+  transform: translateX(-50%);
+  background: var(--teal);
+  border-bottom: 8px solid var(--yellow);
+}
+
+.rec-hero h1,
+.rec-summary {
+  color: var(--bone);
+}
+
+.rec-hero h1 {
+  margin: 0 0 0.4rem;
+  font-size: clamp(2.4rem, 5vw, 3.6rem);
+}
+
+.rec-summary {
+  max-width: 36rem;
+  margin: 0 0 1.25rem;
+  font-family: var(--serif);
+  font-size: clamp(1.15rem, 2vw, 1.4rem);
+  line-height: 1.4;
+}
+
+.rec-collage {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.rec-collage li {
+  flex: 1 1 5.5rem;
+  max-width: 8.5rem;
+  margin: 0;
+}
+
+.rec-collage img {
+  display: block;
+  width: 100%;
+  height: 7.2rem;
+  object-fit: cover;
+  border: 3px solid var(--bone);
+  background: var(--ink);
+}
+
+.rec-section {
+  margin: 0 0 2.4rem;
+}
+
+.rec-section h2 {
+  margin: 0 0 0.9rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 4px solid var(--teal);
+}
+
+.rec-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15.5rem, 1fr));
+  gap: 1rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.rec-poster {
+  grid-template-columns: repeat(auto-fill, minmax(13.5rem, 1fr));
+}
+
+.rec-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  margin: 0;
+  background: var(--surface);
+  border: 3px solid var(--ink);
+  overflow: hidden;
+}
+
+.rec-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  background: var(--ink);
+}
+
+.rec-poster .rec-card img {
+  aspect-ratio: 2 / 3;
+}
+
+.rec-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 0.8rem 0.9rem 1rem;
+}
+
+.rec-copy h3 {
+  margin: 0;
+  font-size: 1.15rem;
+}
+
+.rec-copy p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+.rec-copy a {
+  align-self: start;
+  margin-top: 0.2rem;
+  color: var(--accent-ink);
+  font-weight: 600;
+  text-underline-offset: 0.16em;
+}
+
+.rec-copy a:hover {
+  color: var(--accent-hover);
+}
+
+.rec-credit {
+  max-width: 42rem;
+  margin: 0 0 1rem;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+@media (max-width: 640px) {
+  .rec-grid,
+  .rec-poster {
+    grid-template-columns: 1fr;
+  }
+
+  .rec-collage img {
+    height: 5.4rem;
   }
 }
 
