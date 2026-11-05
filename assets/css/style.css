@@ -1001,7 +1001,7 @@ body:has(.recommends) main {
 
 .rec-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(15.5rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(15.5rem, 1fr));
   gap: 1rem;
   list-style: none;
   margin: 0;
@@ -1009,7 +1009,7 @@ body:has(.recommends) main {
 }
 
 .rec-poster {
-  grid-template-columns: repeat(auto-fill, minmax(13.5rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(13.5rem, 1fr));
 }
 
 .rec-card {
