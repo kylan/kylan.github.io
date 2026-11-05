@@ -966,8 +966,8 @@ body:has(.recommends) main {
 }
 
 .rec-collage {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
   gap: 0.55rem;
   list-style: none;
   margin: 0;
@@ -975,8 +975,6 @@ body:has(.recommends) main {
 }
 
 .rec-collage li {
-  flex: 1 1 5.5rem;
-  max-width: 8.5rem;
   margin: 0;
 }
 
@@ -1076,6 +1074,10 @@ body:has(.recommends) main {
   .rec-grid,
   .rec-poster {
     grid-template-columns: 1fr;
+  }
+
+  .rec-collage {
+    grid-template-columns: repeat(3, 1fr);
   }
 
   .rec-collage img {
