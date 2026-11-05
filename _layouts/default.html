@@ -8,7 +8,7 @@
   {% include header.html %}
   <main id="content">
     <div class="wrap">
-      {% if page.layout == "home" %}
+      {% if page.layout == "home" or page.wide %}
         {{ content }}
       {% elsif page.layout == "post" or page.layout == "posts" %}
         <div class="measure">
